@@ -1,4 +1,3 @@
-
 Tavoitteena on saada kokemuksia datan avaamisesta normaalia tietojärjestelmien uusimissykliä nopeammin.
 
 
@@ -113,72 +112,72 @@ Koska täysin avoimen datan määritelmä harvoin kaikilta osin täyttyy tai on 
 
 ###2.2.1 Löydettävyys###
 
-*Avoin:* Aineiston olemassaolo ja sijainti on yleisesti tunnettu. Aineisto ja sen uudelleenkäytön sallivat lisensointiehdot ovat helposti löydettävissä internetistä sekä ihmisille että hakuroboteille.
+**Avoin:** Aineiston olemassaolo ja sijainti on yleisesti tunnettu. Aineisto ja sen uudelleenkäytön sallivat lisensointiehdot ovat helposti löydettävissä internetistä sekä ihmisille että hakuroboteille.
 
-*Suljettu:* Aineisto on vain viraston operatiivisessa järjestelmässä, eikä sen ole- massaolosta ole ulkopuolisilla lainkaan tietoa.
+**Suljettu:** Aineisto on vain viraston operatiivisessa järjestelmässä, eikä sen ole- massaolosta ole ulkopuolisilla lainkaan tietoa.
 
 Google Maps -rajapinta tai Wikipedian sisältö ovat esimerkkejä aineistoista, joi- den olemassaolo ja laillinen käytettävyys on yleisesti tiedossa. Aineiston löy- dettävyyttä voidaan parantaa lisäämällä se hyvin ylläpidettyyn datakatalogiin, optimoimalla datavarantojen kuvailutiedot hakukoneita varten ja julkaisemalla data linkitetyn datan paradigman mukaisesti. Yleistä tunnettuutta voidaan vah- vistaa tiedottamalla aktiivisesti potentiaalisille uudelleenkäyttäjille datavaran- non olemassaolosta verkossa, julkaisuissa ja tapahtumien yhteydessä. (ks. luku 6: Avoimen datan infrastruktuuri)
 
 ###2.2.2 Kokonaisuus###
 
-*Avoin:* Data on kokonaisuudessaan vapaasti ladattavissa internetistä. Saavutet- tavuutta ja datan käyttömahdollisuuksia ei rajoiteta epäsuorasti, tarjoamalla pääsy vain osaan tietokannasta kerrallaan.
+**Avoin:** Data on kokonaisuudessaan vapaasti ladattavissa internetistä. Saavutet- tavuutta ja datan käyttömahdollisuuksia ei rajoiteta epäsuorasti, tarjoamalla pääsy vain osaan tietokannasta kerrallaan.
 
-*Suljettu:* Aineistosta on saatavilla avoimesti vain osa ja koko aineiston saaminen edellyttää erillistä sopimusta.
+**Suljettu:** Aineistosta on saatavilla avoimesti vain osa ja koko aineiston saaminen edellyttää erillistä sopimusta.
 
 Tyypillinen tapaus, jossa aineiston kokonaisuutta rajoitetaan tarkoituksella tai tahattomasti on sellainen, jossa aineisto tarjotaan vain kyselyrajapinnan kaut- ta, eikä aineistoa ole mahdollista ladata kokonaan. Mikäli aineisto on saatavilla kokonaisuudessaan tarkoittaa se, että kenen tahansa on teknisesti mahdollista myös ryhtyä jakamaan dataa itseään ja muita varten. Kokonaisuuden rajoitta- minen voi olla keino varmistaa aineiston loukkaamattomuus (integriteetti) ja estää rinnakkaisten kopioiden syntyminen aineistosta. Toisaalta kokonaisuuden rajoittaminen estää datan kattavaan analyysiin perustuvan käytön ja aiheuttaa kyselyrajapinnan kuormitusta, joka voitaisiin välttää tarjoamalla oma kopio. (ks. luku 5: Tekninen valmistautuminen)
 
 ###2.2.3 Käyttöehtojen tasa-arvoisuus###
 
-*Avoin:* Aineisto on saatavilla kaikille ja kaikkiin laillisiin käyttötarkoituksiin yhtä helposti. Datan luovutuksessa ei aseteta käyttäjiä eikä käyttötarkoituksia eriar- voiseen asemaan, vaan muut hallinnon toimijat, kansalaiset, yritykset ja myös ulkomaalaiset toimijat ovat tasa-arvoisia.
+**Avoin:** Aineisto on saatavilla kaikille ja kaikkiin laillisiin käyttötarkoituksiin yhtä helposti. Datan luovutuksessa ei aseteta käyttäjiä eikä käyttötarkoituksia eriar- voiseen asemaan, vaan muut hallinnon toimijat, kansalaiset, yritykset ja myös ulkomaalaiset toimijat ovat tasa-arvoisia.
 
-*Suljettu:* Aineiston tarjoamista on rajoitettu käyttäjän tai käyttötarkoituksen mukaan, esimerkiksi vain tutkimus ja tuotekehityskäyttöön tai ainoastaan epä- kaupalliseen käyttöön tai ainoastaan suomalaisille.
+**Suljettu:** Aineiston tarjoamista on rajoitettu käyttäjän tai käyttötarkoituksen mukaan, esimerkiksi vain tutkimus ja tuotekehityskäyttöön tai ainoastaan epä- kaupalliseen käyttöön tai ainoastaan suomalaisille.
 
 Käytännössä tasa-arvoisuus toteutuu, mikäli aineisto on saatavissa verkosta ilman rekisteröintivaatimuksia, jolloin kuka tahansa voi ottaa sen käyttöönsä standardinmukaisilla lisenssiehdoilla. Lisenssi ei estä ketään käyttämästä dataa jollakin määrätyllä käyttöalueella. Erityisesti myös kaupallinen käyttö on sal- littua, sillä kaupallisten toimijoiden toivotaan liittyvän avoimen datan ekosysteemiin. Tasa-arvoisuus tarkoittaa ennakoivasta kontrollista luopumista. Dataa saa käyttää myös taitamattomasti ja poliittisiin tarkoituksiin. (ks. luku 3: Lupa julkaista ja käyttää)
 
 ###2.2.4 Alkuperäisyys ja ajantasaisuus###
 
-*Avoin:* Aineisto on tarjolla alkuperäisessä muodossaan ja alkuperäisellä tark- kuusasteella silloin, kun se ei uhkaa yksilöiden tietosuojaa. Aineisto julkaistaan lähimpänä sen syntypaikkaa (alkuperäisen tuottajan toimesta) ajantasaisesti suhteutettuna aineiston sisällön muuttumisnopeuteen.
+**Avoin:** Aineisto on tarjolla alkuperäisessä muodossaan ja alkuperäisellä tark- kuusasteella silloin, kun se ei uhkaa yksilöiden tietosuojaa. Aineisto julkaistaan lähimpänä sen syntypaikkaa (alkuperäisen tuottajan toimesta) ajantasaisesti suhteutettuna aineiston sisällön muuttumisnopeuteen.
 
-*Suljettu:* Aineisto julkaistaan viivästetysti, alkuperäistä pienemmällä tarkkuu- della tai ainoastaan yhdistetyssä muodossa muiden aineistojen kanssa.
+**Suljettu:** Aineisto julkaistaan viivästetysti, alkuperäistä pienemmällä tarkkuu- della tai ainoastaan yhdistetyssä muodossa muiden aineistojen kanssa.
 
 Raakadatan lisäksi myös yhdistettyjä ja jalostettuja muotoja datasta voidaan asettaa vapaasti saataville. Joissain tapauksissa yleistämällä ja laskemalla tark- kuustasoa voidaan muutoin yksityisyydensuojan kannalta arkaluontoinen ai- neisto saattaa julkiseksi. Anonymisointi ja yleistäminen täytyy tehdä kuitenkin erityisellä huolella. (ks. luku 5: Tekninen valmistautuminen)
 
 ###2.2.5 Laillinen ja vapaa uudelleenkäytettävyys###
  
-*Avoin:* On olemassa standardikäyttöehdot, joiden puitteissa aineisto on vapaasti uudelleenkäytettävissä kaikille riippumatta käyttäjästä tai käyttötarkoituksesta. Mahdollisia yksityisyydensuojaan, turvallisuuteen liittyviä rajoituksia lukuunot- tamatta datan käytölle ei ole asetettu muita juridisia rajoituksia. Lisensointieh- dot on esitetty selvästi ja läpinäkyvästi siten, että ne kannustavat uudelleen- käyttöön. Aineistoon mahdollisesti kohdistuvista tekijänoikeuksista on luovuttu (Waiver of Rights) ja se kerrottu suoraan aineiston uudelleenkäyttöön kannusta- vissa käyttöehdoissa.
+**Avoin:** On olemassa standardikäyttöehdot, joiden puitteissa aineisto on vapaasti uudelleenkäytettävissä kaikille riippumatta käyttäjästä tai käyttötarkoituksesta. Mahdollisia yksityisyydensuojaan, turvallisuuteen liittyviä rajoituksia lukuunot- tamatta datan käytölle ei ole asetettu muita juridisia rajoituksia. Lisensointieh- dot on esitetty selvästi ja läpinäkyvästi siten, että ne kannustavat uudelleen- käyttöön. Aineistoon mahdollisesti kohdistuvista tekijänoikeuksista on luovuttu (Waiver of Rights) ja se kerrottu suoraan aineiston uudelleenkäyttöön kannusta- vissa käyttöehdoissa.
 
-*Suljettu:* Aineisto on lisensoitu uudelleenkäyttöä rajoittavalla lisenssillä, siihen kohdistuu tekijänoikeuksia, tai sen uudelleenkäytön sallimista ei ole suoraan esitetty missään.
+**Suljettu:** Aineisto on lisensoitu uudelleenkäyttöä rajoittavalla lisenssillä, siihen kohdistuu tekijänoikeuksia, tai sen uudelleenkäytön sallimista ei ole suoraan esitetty missään.
 
 Salliva lisensointi voidaan toteuttaa esimerkiksi Creative Commons, Open Da- tabase -lisenssillä tai vastaavalla. Aineistoon mahdollisesti kohdistuvista teki- jänoikeuksista tulisi avoimen julkisen datan osalta luopua, esimerkiksi Creative Commons nolla -lisenssillä, jolloin vältytään epäselvyyksiltä koko jatkojalostus- ketjussa. Yleisin haastatteluissa esiin noussut toive käyttöehtoihin liittyen on halu tietää ketkä aineistoa käyttävät ja mihin. Hyvin usein ei ollut mitään varsi- naisia tarpeita rajoittaa käyttötarkoituksia, mutta ne haluttiin kuitenkin tietää oman toiminnan kehittämisen näkökulmasta. Aineistojen käytön seurantaa voi- daan tehdä myös ilman allekirjoitettavia sopimuksia ja rajoittavia käyttöehtoja, esimerkiksi verkossa tapahtuvan käyttjärekisteröinnin avulla. (ks. luku 3: Lupa julkaista ja käyttää)
 
 ###2.2.6 Maksuttomuus###
 
-*Avoin:* Data on saatavissa täysin maksutta.
+**Avoin:** Data on saatavissa täysin maksutta.
 
-*Suljettu:* Dataa tarjotaan maksuperustaisesti ja myynnistä saaduilla tuotoilla katetaan dataa tuottavan organisaation muita toimintakuluja.
+**Suljettu:** Dataa tarjotaan maksuperustaisesti ja myynnistä saaduilla tuotoilla katetaan dataa tuottavan organisaation muita toimintakuluja.
 
 Enintään irtiottokustannuksilla tarjottavaa aineistoa voidaan pitää melko avoi- mena. Hyvin usein kuitenkin aineiston ylläpidon ja tuotannon kustannukset ovat moninkertaiset suhteutettuna irtiottokuluina perittäviin maksuihin. Pienikin maksu rajoittaa aineiston käyttöä merkittävästi siihen liittyvän vaivalloisuuden ja sopimusten takia. Voi olla, että suurin osa irtiottokustannuksista muodostuu itseasiassa sen laskuttamiseen liittyvästä byrokratiasta, jolloin irtiottokostan- nuksien perimistä ei voida pitää perusteltuna. Mikäli erityisestä syystä peritään maksuja, tulisi maksu olla mahdollista suorittaa internetissä ja saada aineisto käyttöön välittömästi ilman viranomaisen työtä. (ks. luku 5: Avoimen datan ta- loudesta)
 
 ###2.2.7 Koneluettavuus###
 
-*Avoin:* Datavarannolla on pysyvä sijainti internetissä ja sitä pääsee lukemaan automatisoidusti ja ohjelmallisesti. Data on riittävissä määrin strukturoitu au- tomatisoidun prosessoinnin mahdollistamiseksi. Myöskin lisensointiehdot ovat koneluettavia, ne voidaan hyväksyä verkossa ja aineisto saadaan käyttöön ilman viranomaisen työtä.
+**Avoin:** Datavarannolla on pysyvä sijainti internetissä ja sitä pääsee lukemaan automatisoidusti ja ohjelmallisesti. Data on riittävissä määrin strukturoitu au- tomatisoidun prosessoinnin mahdollistamiseksi. Myöskin lisensointiehdot ovat koneluettavia, ne voidaan hyväksyä verkossa ja aineisto saadaan käyttöön ilman viranomaisen työtä.
 
-*Suljettu:* Data julkaistaan täysin epärakenteellisessa muodossa siten, että sen tulkinta on mahdollista vain ihmislukijalle, esim. pdf-dokumentit tai html-sivut.
+**Suljettu:** Data julkaistaan täysin epärakenteellisessa muodossa siten, että sen tulkinta on mahdollista vain ihmislukijalle, esim. pdf-dokumentit tai html-sivut.
 
 Peukalosääntönä koneluettavuudelle voidaan pitää sitä, että etevä ohjelmoija ky- kenee verrattain lyhyessä ajassa tekemään ohjelman, joka automaattisesti hakee datan internetistä, lukee sen ohjelman muistiin ja tulostaa uudelleen muokattuna vaikkapa iPhonen näytölle. Mikäli aineisto ei missään vaiheessa ole koneluetta- vassa muodossa, on sen saattaminen sellaiseksi varsin työlästä. Usein kuitenkin esimerkiksi organisaation verkkosivuilla tarjotaan aineistoja ei-koneluettavasti HTML-muodossa, mutta samat aineistot ovat jossain toisessa järjestelmässä myös koneluettavassa muodossa, jolloin niiden julkaiseminen on jo paljon helpompaa. (ks. luku 5: Tekninen valmistautuminen)
 
 ###2.2.8 Formaatin avoimuus###
 
-*Avoin:* Aineisto on saatavilla käyttökelpoisessa ja muokattavassa formaatissa, jonka määrittely ja kehitys eivät ole minkään yksittäisen yrityksen tai vastaavan hallussa.
+**Avoin:** Aineisto on saatavilla käyttökelpoisessa ja muokattavassa formaatissa, jonka määrittely ja kehitys eivät ole minkään yksittäisen yrityksen tai vastaavan hallussa.
 
-*Suljettu:* Data on tarjolla ainoastaan formaatissa, joka on jonkin yrityksen hallin- noima ja jonka hyödyntämiseksi on pakko käyttää saman yrityksen ohjelmistoja.
+**Suljettu:** Data on tarjolla ainoastaan formaatissa, joka on jonkin yrityksen hallin- noima ja jonka hyödyntämiseksi on pakko käyttää saman yrityksen ohjelmistoja.
 
 Tämä voidaan saavuttaa tarjoamalla aineisto avoimessa formaatissa, esimerkik- si sellaisessa, jonka spesifikaatio on julkisesti ja vapaasti saatavilla ja joka ei aseta rahallisia tai muita rajoitteita formaatin käytölle. Samaa dataa kannattaa mahdollisuuksien mukaan tarjota useammissakin formaateissa. Aina avoimen formaatin käyttöön ei ole realistisia mahdollisuuksia. Esimerkiksi jotkut paik- katieto-järjestelmät käyttävät valmistajakohtaisia formaatteja, jolloin avoimiin formaatteihin voidaan siirtyä vain järjestelmäuudestuksen yhteydessä. (ks. luku 5: Tekninen valmistautuminen)
 
 ###2.2.9 Ymmärrettävyys###
 
-*Avoin:* Data on kuvailtu ja dokumentoitu kattavasti ja selkeästi.
+**Avoin:** Data on kuvailtu ja dokumentoitu kattavasti ja selkeästi.
 
-*Suljettu:* Aineisto on tarjottu formaatissa, jonka käyttöä tai sisältöä ei ole kuvail- tu uudelleenkäytön edellyttämällä tavalla.
+**Suljettu:** Aineisto on tarjottu formaatissa, jonka käyttöä tai sisältöä ei ole kuvail- tu uudelleenkäytön edellyttämällä tavalla.
 
 Aineiston ymmärrettävyyttä ja sitä kautta uudelleenkäytettävyyttä voidaan merkittävästi parantaa metadatan, dokumentaation, käyttöesimerkkien ja laa- tumääritelmien avulla. Hyvän dokumentaation ainoa haittapuoli on sen tekemi- sen työläys. Ohjeistaminen saattaa muodostua merkittäväksi aineistojen julkai- semisen hidasteeksi. Toisaalta dokumentaatio voi joskus olla hyvinkin kevyt ja sitä voi parantaa myöhemmin. Esimerkiksi sarkainerotellussa tiedostossa riittää, että sarakeotsikot ovat tiedostossa mukana. (ks. luku 5: Tekninen valmistautu- minen)
