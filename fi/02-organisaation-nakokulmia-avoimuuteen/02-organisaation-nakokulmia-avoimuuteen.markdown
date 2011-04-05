@@ -84,3 +84,27 @@ _Taulukko 2.1. Esimerkkejä toimijoiden rooleista suhteessa dataan._
 		<td>ihmiset yritykset ja organisaatiot, jotka käyttävät avoimen datan päälle tehtyjä sovelluksia ja tulkintoja</td>
 	</tr>
 </table>
+
+Myöhemmin tässä luvussa esitettävän organisaation tietovarantojen inventaarion yhteydessä identifioidaan aineistot, joita organisaatiolla on hallussaan. Yllämainittu roolijaottelu sekä liitteen 3. julkishallinnon tietomaaston kartoitus on tarkoitettu avuksi inventaarioon.
+
+##2.2 Datan avoimuuden mittareita##
+
+Keskustelunavausten, raporttien ja hankkeiden myötä avoimuudesta on nopeasti tullut keskeinen sana hallinnon sanastoon myös kun puhutaan tietojärjestelmistä ja tietovarannoista. Avoimuuskeskustelussa puhutaan samaan aikaan avoimesta lisensoinnista, teknisistä rajapinnoista, formaateista, metadatasta, tiedon harmonisoinnista, hallinnon läpinäkyvyydestä, ihmisten osallistumismahdollisuuksista, julkisuusperiaatteesta, uudelleenkäytettävyydestä ja koneluettavuudesta. Ei ole aivan poikkeuksellista, että eri osapuolet tarkoittavat eri asioita. Aiheen laajuuden ja nopean kehityksen vuoksi väärinymmärrykset ja liika yleistäminen ovat yleisiä. Mitä oikeastaan tarkoitetaan avoimella julkishallinnon datalla?
+
+Lainsäädännön mukaan julkisella datalla tarkoitetaan sellaisia aineistoja, jotka eivät kuulu yksityisyydensuojan piiriin – kuten henkilörekisterit – tai ole muusta syystä laissa arkaluontoisiksi tulkittavia, kuten kansalliseen turvallisuuteen liittyvät aineistot.
+
+Aineiston avoimuus ei ole mustavalkoinen joko–tai-kysymys, vaan siihen vaikuttaa ainakin aineiston tekninen saavutettavuus, löydettävyys, maksullisuus ja lisensointiehdot. Kaikkien aineistojen kohdalla äärimmäinen avoimuus ei ole edes tavoiteltavaa. Monesti aineiston uudelleenkäytettävyyttä voidaan merkittävästi parantaa ilman haittoja tekemällä ratkaisuja, jotka tavalla tai toisella lisäävät avoimuutta (esimerkiksi muuttamalla lisensointietoja sallivammiksi tai tarjoamalla aineistot täysin veloituksetta).
+
+Data-aineiston avoimuutta voidaan arvioida vertaamalla sitä avoimen datan kriteeristöön. Seuraava määritelmä pohjautuu Open Knowledge Defition -määritelmään (OKD). Julkisen datan täysin avoimella löydettävyydellä, saatavuudella ja uudelleenkäytettävyydellä tarkoitetaan seuraavaa:
+
+_Julkisella datalla tarkoitetaan aineistoja, joita eivät koske yksityisyydensuoja-, turvallisuus- tai muut rajoitteet, jotka tekisivät datasta salassa pidettävää tai arkaluontoista._
+
+* Aineisto on löydettävissä ja kokonaisena saatavilla siten, että se voidaan ottaa laillisesti käyttöön välittömästi ilman viranomaisen avustusta esimerkiksi kello kolme yöllä.
+
+* Aineisto on vapaasti tarjolla internetissä. Kuka tahansa saa lukea, ladata sen omalle koneelleen, kopioida, muokata, jakaa, tulostaa, etsiä, linkittää dataan, indeksoida, antaa data tietokoneohjelman syötteeksi tai käyttää sitä mihin tahansa muuhun lainmukaiseen toimintaan ilman taloudellisia, juridisia, teknisiä tai käytännöllisiä rajoitteita.
+
+* Käyttöehdoilla turvataan aineiston käyttäjälle varmuus aineiston alkuperästä ja aineiston tuottajalle oikeus tulla asianmukaisesti nimetyksi sen hyödyntämisen yhteydessä. Muita aineiston uudelleenkäyttöä ja jakelua rajoittavia ehtoja ei ole ja aineisto on saatavilla ilman rekisteröitymisvaatimuksia.
+
+* Aineiston yhteyteen (esim. metatietoihin) sisällytetään tiedot aineiston alkuperästä ja käyttöehdoissa kerrotaan selkeästi aineiston vastaanottajalle, että hänellä on laillinen oikeus ja häntä jopa kannustetaan uudelleenkäyttämään aineistoa parhaaksi katsomallaan tavalla.
+
+Koska täysin avoimen datan määritelmä harvoin kaikilta osin täyttyy tai on edes tarpeen täyttyä, on määritelmä purettu osiin: löydettävyys (2.2.1), kokonaisuus (2.2.2), käyttöehtojen tasa-arvoisuus (2.2.3), alkuperäisyys ja ajantasaisuus (2.2.4), laillinen ja vapaa uudelleenkäytettävyys (2.2.5), maksuttomuus (2.2.6), koneluettavuus (2.2.7), formaatin avoimuus (2.2.8) ja ymmärrettävyys (2.2.9). Tämä osiin purettu avoimen datan määritelmä toimii akselistona, jonka avulla voidaan arvioida yksittäisen julkisen datalähteen avoimuutta ja tunnistaa missä asioissa sitä kenties voitaisiin helposti lisätä.
