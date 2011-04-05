@@ -43,7 +43,44 @@ Moniin hallinnon prosesseihin, kuten esimerkiksi lakien ja asetuksien valmistelu
 _Taulukko 2.1. Esimerkkejä toimijoiden rooleista suhteessa dataan._
 
 <table>
-    <tr>
-        <td>Foo</td>
-    </tr>
+	<tr>
+		<td>Tallentaja</td>
+		<td>raakadatan kerääminen ja tallentaminen</td>
+	</tr>
+	<tr>
+		<td>Jalostaja</td>
+		<td>raakadatan käsittely ja muokkaaminen</td>
+	</tr>
+	<tr>
+		<td>Aggregaattori</td>
+		<td>datan yhdistely ja koostaminen eri lähteistä</td>
+	</tr>
+	<tr>
+		<td>Harmonisoija</td>
+		<td>eri lähteistä tulevien tietojen yhdenmukaistaminen ja yhteismitallistaminen (samalta näyttävä asia myös tarkoittaa samaa)</td>
+	</tr>
+	<tr>
+		<td>Päivittäjä</td>
+		<td>tietojen päivittäminen</td>
+	</tr>
+	<tr>
+		<td>Julkaisija</td>
+		<td>datan julkaiseminen</td>
+	</tr>
+	<tr>
+		<td>Rekisterinpitäjä</td>
+		<td>datavarannon ylläpitovastuu</td>
+	</tr>
+	<tr>
+		<td>Sovelluskehittäjä datan loppukäyttäjänä</td>
+		<td>datan hyödyntäminen osana palvelua</td>
+	</tr>
+	<tr>
+		<td>Tulkitsija datan loppukäyttäjänä</td>
+		<td>datan tulkitseminen, esim. tutkija, yritys tai demokratiaaktivisti</td>
+	</tr>
+	<tr>
+		<td>Dataan pohjautuvien palveluiden (ks. luku 2) käyttäjät</td>
+		<td>ihmiset yritykset ja organisaatiot, jotka käyttävät avoimen datan päälle tehtyjä sovelluksia ja tulkintoja</td>
+	</tr>
 </table>
