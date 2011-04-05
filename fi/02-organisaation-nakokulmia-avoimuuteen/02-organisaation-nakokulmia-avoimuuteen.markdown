@@ -31,3 +31,19 @@ Käytännön sovellusesimerkki New Yorkista, ja ajatuskulku kotimaisiin kirjasto
 >2) Kirjastojen tietokannoista voisi mainita aineistojen hyvät bibliografiset tiedot: tekijä, teoksen nimi, teoksen kansikuva, sisällysluettelo ja sisällönkuvailu. Useilla maakuntakirjastoilla on myös aluetietokantoja, esim. Tampereen maakuntakirjasto ylläpitää Pirkitta-aluetietokantaa, johon on tallennettu muun muassa kotimaisten aikakauslehtien artikkeliviitteitä vuodesta 1983 lähtien ja digitoituja näköispainoksia pienpainatteista. Tällaiselle paikalliselle datalle voisi löytyä soveltamisalueita, jos tietokanta sen sallisi.
 
 >Luonnollisesti jokaisesta lainatusta kirjasta jää myös jälki tietokantaan. Nyt tietokannoissa on mukana lainaajia koskevaa tietosuojan alaista dataa, mutta ilman hnekilötietoja (anonymisoidut) olevat lainaustilastot, kuten lainatuimmat aineistot jne., olisivat mielenkiintoisia. Asiakkaalle itselleen olisi mielenkiintoista saada oma lainaushistoriansa käyttöön, hän voisi linkittää sen vaikka verkossa toimivaan lukupiirisovellukseen, jolloin hän pääsisi vaihtamaan kommentteja muiden ihmisten kanssa, jotka ovat lukeneet samoja kirjoja.
+
+Julkishallinnon datavarantoja voidaan jäsentää esimerkiksi tuottajaorganisaatioiden, aineistojen sisällön tai datan oletettujen käyttötarkoitusten perusteella. Aiemmissa keskustelunavauksissa tarkastelua on kentän laajuuden takia yleensä rajattu esimerkiksi vain joihinkin seuraavista: paikkatieto (MMM 2005), organisatorisesti, esim. valtion budjettitalouden piiriin kuuluvien organisaatioiden tuottama data (Kuronen 1998). Tässä oppaassa laajennamme tarkastelua koskemaan periaatteessa kaikkea lain mukaisesti julkista, hallinnon tuottamaa tietoa.
+
+On olennaista, että organisaatioissa tunnistetaan omat tietovarannot ja niistä jaetaan tietoa ja viestitään. Valtion tasolla on meneillään tietoarkkitehtuurin määrittelytyö (VM 2009), jonka puitteissa  on tehty alustava kaavio suomalaisten datavarantojen kokonaiskenttää: «Tietomaaston kartoitusta – merkittäviä tietokokonaisuuksia» (Liite 3).
+
+Vaikka oppaassa keskitytään nimenomaan julkishallintoon merkittävänä informaation tuottajana, niin ekosysteemin näkökulmasta ei ole olennaista, kuka tuottaa ja kuka käyttää informaatiota. Nykyään tilanne saattaakin olla jo niin, että yksityiset yritykset tuottavat lähes yhtä paljon dataa kuin julkishallinnon organisaatiot. Enenevässä määrin myös yksittäiset kansalaiset osallistuvat datan tuotantoon ja sen jalostamiseen informaatioksi ja tiedoksi. Avoimen datan ekosysteemissä hallinnon organisaatiot, kansalaiset ja yritykset ovat kaikki paitsi tiedon käyttäjiä myös tiedon tuottajia – usein molempia samaan aikaan. Ekosysteemi-ajattelussa toimijoita ovat paitsi organisaatiot, niin myös yksittäiset ihmiset, jotka ovat keskenään vuorovaikutuksessa ja muokkaavat ekosysteemin käytäntöjä.
+
+Moniin hallinnon prosesseihin, kuten esimerkiksi lakien ja asetuksien valmisteluun, liittyy paljon organisaatiorajat ylittävää viestintää ja tiedonvaihtoa. Lainvalmistelu saattaa esimerkiksi pitää sisällään Tilastokeskuksen tietojen hyödyntämistä ja budjettivaikutusten arvioimista valtionvarainministeriössä. Käytännöllisenä lähtökohtana voidaan pitää, että jokainen julkishallinnon organisaatio todennäköisesti sekä a) tuottaa uutta dataa että b) jalostaa, c) käsittelee ja d) hyödyntää jonkun muun tuottamaa dataa. Vaikka toimijakenttä on moninainen, eikä ole selkeästi osoitettavissa julkisen datan tuottajaorganisaatioita, niin toimijoiden roolit suhteessa dataan on kuvattavissa tarkasti (taulukko 2.1).
+
+_Taulukko 2.1. Esimerkkejä toimijoiden rooleista suhteessa dataan._
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
