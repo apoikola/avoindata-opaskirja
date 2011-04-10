@@ -197,29 +197,29 @@ Vaiheittaisen prosessin (kuva 2.1) jokaisella kierroksella syvennetään organis
 **Ensimmäinen kierros: Datasta ilmoittaminen**
 Datan avaamisesta ja organisaation hallussa olevista aineistoista ilmoittaminen pyritään tekemään mahdollisimman nopeasti ja kevyesti. Tässä vaiheessa vastataan kysymyksiin:
 
-1. Mitä aineistoja meillä ylipäätään on?
-2. Mitkä niistä ovat julkisia?
-3. Kuinka avoimia eri aineistot nykyisin ovat? (ks. mittareita datan avoimuudesta)
+* 1) Mitä aineistoja meillä ylipäätään on?
+* 2) Mitkä niistä ovat julkisia?
+* 3) Kuinka avoimia eri aineistot nykyisin ovat? (ks. mittareita datan avoimuudesta)
 
 **Toinen kierros: Pilottiaineistojen julkaiseminen**
 Kun omat tietovarannot on tunnistettu, niistä voidaan poimia helpoimmat avattaviksi ensin. Seuraavalla iteraatiokierroksella pilotoidaan teknisesti, juridisesti ja taloudellisesti helpoimmin avattavien aineistojen julkaisua. Tässä vaiheessa vastataan kysymyksiin:
 
-4. Mitkä aineistot ovat teknisesti helposti avattavissa?
-5. Minkälaisin käyttöehdoin niitä halutaan julkaista?
-6. Ketkä organisaatiossa vastaavat eri aineistojen sisällöstä ja ketkä teknisistä järjestelmistä?
+* 4) Mitkä aineistot ovat teknisesti helposti avattavissa?
+* 5) Minkälaisin käyttöehdoin niitä halutaan julkaista?
+* 6) Ketkä organisaatiossa vastaavat eri aineistojen sisällöstä ja ketkä teknisistä järjestelmistä?
 
 **Kolmas kierros: Dokumentointi ja käyttötapaukset**
 Julkaistujen aineistojen määrä voidaan kierros kierrokselta lisätä, mutta samalla on hyvä lisätä ja selkiyttää aineistojen dokumentaatiota uudelleenkäyttäjiä varten sekä koota aineistojen käyttötapauksia ja muuta tietoa organisaation sisältä. Tässä vaiheessa vastataan kysymyksiin:
 
-7. Miten tieto on kuvailtu sisällöllisesti ja dokumentoitu teknisesti?
-8. Millaisia tiedontarpeita, käytäjäryhmiä ja käyttötapauksia eri aineistojen nykyiseen käyttööön liittyy?
-9. Minkälaisia tiedon saatavuuteen ja käytettävyyteen liittyviä pyyntöjä ja tarpeita on noussut esiin organisaation sisältä ja ulkopuolelta?
+* 7) Miten tieto on kuvailtu sisällöllisesti ja dokumentoitu teknisesti?
+* 8) Millaisia tiedontarpeita, käytäjäryhmiä ja käyttötapauksia eri aineistojen nykyiseen käyttööön liittyy?
+* 9) Minkälaisia tiedon saatavuuteen ja käytettävyyteen liittyviä pyyntöjä ja tarpeita on noussut esiin organisaation sisältä ja ulkopuolelta?
 
 **Neljäs kierros: Tietoarkkitehtuuri ja sanastotyö**
 Ensimmäisten pilottien kokemuksella voidaan organisaatiolle muodostaa tietovarantojen avoimuutta edistävä strategia, jonka mukaisesti rekistereitä ja rajapintoja järjestelmällisesti avataan. Sen jälkeen on mahdollista kehittää tietovarantojen käyttöä myös yli organisaatiorajojen. Tässä vaiheessa vastataan kysymyksiin:
 
-10. Minkälaisia organisaatiorajat ylittäviä tiedon harmonisointi- ja yhdenmukaistamistarpeita ja mahdollisuuksia on?
-11. Minkälaisiin järjestelmäuudistuksiin tietovarantojen avoimuuden parantaminen liittyy?
-12. Miten organisaation käyttämiä datavarantoja voitaisiin paremmin organisoida yhdessä muiden toimijoiden kanssa?
+* 10) Minkälaisia organisaatiorajat ylittäviä tiedon harmonisointi- ja yhdenmukaistamistarpeita ja mahdollisuuksia on?
+* 11) Minkälaisiin järjestelmäuudistuksiin tietovarantojen avoimuuden parantaminen liittyy?
+* 12) Miten organisaation käyttämiä datavarantoja voitaisiin paremmin organisoida yhdessä muiden toimijoiden kanssa?
 
 Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saattaa vaihdella organisaatiottain. Lähtöpiste on kuitenkin selvä. Datan avaaminen lähtee aina omien datavarantojen tunnistamisesta ja nykytilan arvioimisesta. Tämän jälkeen on mahdollista osallistua avoimen datan ekosysteemiin – ensin projektimielessä kokeillen ja sen jälkeen sisällyttäen avoin data osaksi organisaation pysyvää toimintatapaa. Liikkeelle voidaan lähteä pienestä ja kertyneet kokemukset antavat aineksia organisaation omaan avoimen datan strategiaan.
