@@ -181,3 +181,45 @@ Tämä voidaan saavuttaa tarjoamalla aineisto avoimessa formaatissa, esimerkik- 
 **Suljettu:** Aineisto on tarjottu formaatissa, jonka käyttöä tai sisältöä ei ole kuvail- tu uudelleenkäytön edellyttämällä tavalla.
 
 Aineiston ymmärrettävyyttä ja sitä kautta uudelleenkäytettävyyttä voidaan merkittävästi parantaa metadatan, dokumentaation, käyttöesimerkkien ja laa- tumääritelmien avulla. Hyvän dokumentaation ainoa haittapuoli on sen tekemi- sen työläys. Ohjeistaminen saattaa muodostua merkittäväksi aineistojen julkai- semisen hidasteeksi. Toisaalta dokumentaatio voi joskus olla hyvinkin kevyt ja sitä voi parantaa myöhemmin. Esimerkiksi sarkainerotellussa tiedostossa riittää, että sarakeotsikot ovat tiedostossa mukana. (ks. luku 5: Tekninen valmistautu- minen)
+
+##2.3 Datavarantojen inventaario- ja julkaisuprosessi##
+
+Hyvin kuvailtu laadukas data luotettavasti toimivien rajapintojen kautta jaeltuna johtaa avoimen datan suurimpiin hyötyihin. Datan avaaminen vaatii kuitenkin aikaa ja resursseja, eikä kaikkea voida rakentaa kerralla valmiiksi. Datan jakamisessa kannattaa etsiä pieniä toimia, joilla datan avoimuutta voidaan merkittävästi lisätä.
+
+Esitämme tässä datan avaamiseen vaiheittaisen ja käytännön kokeilujen kautta ohjautuvan etenemismallin. Tavoitteena on, että datan avoimesta jakelusta ja ekosysteemiin osallistumisesta saadaan kokemuksia aiemmin, kuin mitä tietojärjestelmien uusimissykli toisi mukanaan. Nähdään mille datalle on eniten kysyntää ja saadaan palautetta siitä, missä formaateissa ja millaisen rajapinnan kautta mitäkin kannattaa jakaa. Prosessi on tarkoitettu viitteelliseksi ja ennen kaikkea herättämään ajatuksia.
+
+Datan avaamisessa kannattaa välttää turhia ennakko-oletuksia datan käyttötarkoituksesta ja potentiaalisista hyödyntäjistä. Joillekin aineistoille voi olla piilevää kysyntää, joka paljastuu vasta kun aineisto saa julkisuutta. Esimerkiksi paikkatietolainsäädännöstä käyty keskustelu on lisännyt paikkatietoaineistojen tunnettuutta ja sitä kautta niiden kysyntää. Priorisointimielessä on loogista selvittää mille tietovarannoille on eniten kysyntää. Mielikuvien sijaan on kuitenkin parempi nojautua kokeiluihin, kannustaa datan hyödyntämiseen ja seurata mitä tapahtuu. Yksikin julkisuutta saanut sovellus saattaa johtaa aineiston kysynnän lisääntymiseen ja muuttaa tilannetta lyhyessä ajassa merkittävästi.
+
+Teknisesti tietovarantojen julkaisu liittyy organisaation tietojärjestelmien ja etenkin tietoarkkitehtuurin kehittämiseen. Aineistojen julkaisua voidaankin ajatella tietoarkkitehtuurin kehittämisen tukitoimintona eikä niinkään arkkitehtuuriprojektin lopputuloksena. Sen sijaan, että luvataan avoimet rajapinnat seuraavan järjestelmäuudistuksen yhteydessä, lähdetäänkin siitä, että ensin julkaistaan organisaation tietovarantojen inventaarion tulokset. Sen jälkeen julkaistaan joitain kiinnostavia tietoaineistoja ladattavaksi sellaisena, kuin ne ovat. Datan julkaisusta saadut kokemukset voivat toimia tärkeänä syötteenä niin aineistojen harmonisointiin kuin yleisen tietojärjestelmien kehitystyöhönkin.
+
+Vaiheittaisen prosessin (kuva 2.1) jokaisella kierroksella syvennetään organisaation omien tietoresurssien tuntemusta, julkaistaan uutta materiaalia ekosysteemin käytettäväksi ja kerrytetään organisaation kokemuksia avoimeen dataan liittyvästä toiminnasta. Prosessin osia ovat: a) aineistojen analysointi, b) aineiston julkaiseminen ja c) datan avaamisesta oppiminen.
+
+**Ensimmäinen kierros: Datasta ilmoittaminen**
+Datan avaamisesta ja organisaation hallussa olevista aineistoista ilmoittaminen pyritään tekemään mahdollisimman nopeasti ja kevyesti. Tässä vaiheessa vastataan kysymyksiin:
+
+1) Mitä aineistoja meillä ylipäätään on?
+2) Mitkä niistä ovat julkisia?
+3) Kuinka avoimia eri aineistot nykyisin ovat? (ks. mittareita datan avoimuudesta)
+
+**Toinen kierros: Pilottiaineistojen julkaiseminen**
+Kun omat tietovarannot on tunnistettu, niistä voidaan poimia helpoimmat avattaviksi ensin. Seuraavalla iteraatiokierroksella pilotoidaan teknisesti, juridisesti ja taloudellisesti helpoimmin avattavien aineistojen julkaisua. Tässä vaiheessa vastataan kysymyksiin:
+
+4) Mitkä aineistot ovat teknisesti helposti avattavissa?
+5) Minkälaisin käyttöehdoin niitä halutaan julkaista?
+6) Ketkä organisaatiossa vastaavat eri aineistojen sisällöstä ja ketkä teknisistä järjestelmistä?
+
+**Kolmas kierros: Dokumentointi ja käyttötapaukset**
+Julkaistujen aineistojen määrä voidaan kierros kierrokselta lisätä, mutta samalla on hyvä lisätä ja selkiyttää aineistojen dokumentaatiota uudelleenkäyttäjiä varten sekä koota aineistojen käyttötapauksia ja muuta tietoa organisaation sisältä. Tässä vaiheessa vastataan kysymyksiin:
+
+7) Miten tieto on kuvailtu sisällöllisesti ja dokumentoitu teknisesti?
+8) Millaisia tiedontarpeita, käytäjäryhmiä ja käyttötapauksia eri aineistojen nykyiseen käyttööön liittyy?
+9) Minkälaisia tiedon saatavuuteen ja käytettävyyteen liittyviä pyyntöjä ja tarpeita on noussut esiin organisaation sisältä ja ulkopuolelta?
+
+**Neljäs kierros: Tietoarkkitehtuuri ja sanastotyö**
+Ensimmäisten pilottien kokemuksella voidaan organisaatiolle muodostaa tietovarantojen avoimuutta edistävä strategia, jonka mukaisesti rekistereitä ja rajapintoja järjestelmällisesti avataan. Sen jälkeen on mahdollista kehittää tietovarantojen käyttöä myös yli organisaatiorajojen. Tässä vaiheessa vastataan kysymyksiin:
+
+10) Minkälaisia organisaatiorajat ylittäviä tiedon harmonisointi- ja yhdenmukaistamistarpeita ja mahdollisuuksia on?
+11) Minkälaisiin järjestelmäuudistuksiin tietovarantojen avoimuuden parantaminen liittyy?
+12) Miten organisaation käyttämiä datavarantoja voitaisiin paremmin organisoida yhdessä muiden toimijoiden kanssa?
+
+Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saattaa vaihdella organisaatiottain. Lähtöpiste on kuitenkin selvä. Datan avaaminen lähtee aina omien datavarantojen tunnistamisesta ja nykytilan arvioimisesta. Tämän jälkeen on mahdollista osallistua avoimen datan ekosysteemiin – ensin projektimielessä kokeillen ja sen jälkeen sisällyttäen avoin data osaksi organisaation pysyvää toimintatapaa. Liikkeelle voidaan lähteä pienestä ja kertyneet kokemukset antavat aineksia organisaation omaan avoimen datan strategiaan.
