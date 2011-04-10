@@ -224,20 +224,20 @@ Ensimmäisten pilottien kokemuksella voidaan organisaatiolle muodostaa tietovara
 
 Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saattaa vaihdella organisaatiottain. Lähtöpiste on kuitenkin selvä. Datan avaaminen lähtee aina omien datavarantojen tunnistamisesta ja nykytilan arvioimisesta. Tämän jälkeen on mahdollista osallistua avoimen datan ekosysteemiin – ensin projektimielessä kokeillen ja sen jälkeen sisällyttäen avoin data osaksi organisaation pysyvää toimintatapaa. Liikkeelle voidaan lähteä pienestä ja kertyneet kokemukset antavat aineksia organisaation omaan avoimen datan strategiaan.
 
-> **A) Aineistojen analysointi**
-> • Ensimmäinen kierros: lista organisaation hallussa olevista aineistoista
-> • Toinen kierros: analyysi aineistoista (tekniikka, juridiikka, vastuut)
-> • Kolmas kierros: haastattelut ja käyttötapaukset tietoresusrssien käytöstä
-> • Neljäs kierros: tietoarkkitehtuurin kehittämissuunnitelma
+>**A) Aineistojen analysointi**
+>* Ensimmäinen kierros: lista organisaation hallussa olevista aineistoista
+>* Toinen kierros: analyysi aineistoista (tekniikka, juridiikka, vastuut)
+>* Kolmas kierros: haastattelut ja käyttötapaukset tietoresusrssien käytöstä
+>* Neljäs kierros: tietoarkkitehtuurin kehittämissuunnitelma
 
-> **B) Aineistojen julkaiseminen**
-> • Ensimmäinen kierros: julkaistaan organisaation tietoaineistojen rekisteri (Information Asset Registry IAR)
-> • Toinen kierros: julkaistaan pilottiaineistot raakadatamuodossa (ns. ”dumppijulkaisu”)
-> • Kolmas kierros: määritellään rajapinta ja julkaistaan dokumentaatiota
-> • Neljäs kierros: tehdään hakupalvelu tai dataportaali
+>**B) Aineistojen julkaiseminen**
+>* Ensimmäinen kierros: julkaistaan organisaation tietoaineistojen rekisteri (Information Asset Registry IAR)
+>* Toinen kierros: julkaistaan pilottiaineistot raakadatamuodossa (ns. ”dumppijulkaisu”)
+>* Kolmas kierros: määritellään rajapinta ja julkaistaan dokumentaatiota
+>* Neljäs kierros: tehdään hakupalvelu tai dataportaali
 
-> **C) Datan avaamisesta oppiminen**
-> * Ensimmäinen kierros: seurataan tilastoja aineistojen käytöstä ja latauksista
-> * Toinen kierros: ensimmäiset sovellukset, sana leviää
-> * Kolmas kierros: tavataan käyttäjiä esimerkiksi aineiston käyttäjien työpajassa
-> * Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä
+>**C) Datan avaamisesta oppiminen**
+>* Ensimmäinen kierros: seurataan tilastoja aineistojen käytöstä ja latauksista
+>* Toinen kierros: ensimmäiset sovellukset, sana leviää
+>* Kolmas kierros: tavataan käyttäjiä esimerkiksi aineiston käyttäjien työpajassa
+>* Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä
