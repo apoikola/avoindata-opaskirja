@@ -244,3 +244,61 @@ Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saat
 >* Toinen kierros: ensimmäiset sovellukset, sana leviää
 >* Kolmas kierros: tavataan käyttäjiä esimerkiksi aineiston käyttäjien työpajassa
 >* Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä
+
+###2.3.1 Datasta ilmoittaminen###
+
+Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: «_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_». Uudelleenkäyttäjät vastaavat: «_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_»
+
+Aivan ensimmäinen julkaistava data tulisi olla listaus aineistoista, joita organisaatiolla ylipäätään on olemassa, vaikka nämä aineistot eivät vielä olisi saatavilla. Tällaista organisaation nettisivuilla tai laajemmassa useiden organisaatioiden tietoja yhdistävässä datakatalogissa julkaistavaa listausta kutsutaan organisaation julkisten tietoaineistojen rekisteriksi (Information Asset Registry IAR).  Listaukseen sisältyvät sekä jo avoimet datavarannot että tietolähteet, jotka eivät vielä ole avoimesti saatavilla, mutta ovat kuitenkin julkisia ja joiden avoimuutta voidaan jatkossa lisätä.
+
+Monissa organisaatioissa tällainen listaus omista tietovarannoista  saattaa olla jo olemassa, toisissa sitä varten pitää tehdä omien datavarantojen inventaario. Yksi ensimmäisistä tehtävistä datan avaamista käynnistettäessä on perata olemassaolevat tietovarannot ja niihin liittyvät käytännöt.
+
+Ensimmäinen lista organisaation datavarannoista syntyy yksinkertaisimmin muistinvaraisesti ja omia verkkosivuja selaamalla. Kattavampi listaus saadaan, jos kartoitustyöhön osallistuu useampia henkilöitä. Esimerkiksi muutaman tunnin työpajassa pystytään tuottamaan julkaisukelpoinen listaus, joka sisältää olennaisimmat tiedot organisaation hallussa olevista aineistoista. Tavoitteena ei ole vielä kattavasti selvittää kaikkia tietoja kaikista aineistoista. Alla on muutamia tärkeimpiä kysymyksistä, joihin pyritään aineistokohtaisesti vastaamaan.
+
+* Aineiston nimi
+* Lyhyt kuvaus aineiston sisällöstä
+* Kuinka avointa aineisto on nykyisin, onko se saatavilla käyttöön ja jos on niin miten?
+
+Kun julkisten tietovarantojen rekisteri on laitettu avoimesti verkkoon, voidaan siitä jo viestiä potentiaalisille datan uudelleenkäyttäjille, luoda kontakteja ja kerätä mielipiteitä. Organisaatio voi esimerkiksi jalkautua kehittäjäyhteisöihin sosiaalisen median ja tapahtumien kautta. Viestinnässä kannattaa kiinnittää huomiota kannustavuuteen ja siihen, millaisia odotuksia herättää yleisössä. Jos aineistojen avaamisesta ei ole vielä tehty päätöksiä ja halutaan pelkästään ideoita niiden hyödyntämisestä, kannattaa se kertoa.
+
+Voi olla, ettei käyttäjien huomiota aivan alussa saavuteta. Parhaimmillaan kuitenkin jo pelkän omien datavarantojen listauksen avulla voidaan käynnistää organisaation ja datan hyödyntäjien välinen dialogi ja saada palautetta siitä, mitä dataa kannattaisi julkaista mitenkin. Lopuksi palaute ja datan avaamisesta saadut kokemukset kootaan ja arvioidaan. Mikä toimi, mikä ei? Valmistaudutaan siirtymään seuraavalle iteraatiokierrokselle, jossa pilotoidaan datan julkaisemista.
+
+###2.3.2 Pilottiaineistojen julkaiseminen###
+
+Kun organisaation keskeisimmät tietovarannot on tunnistettu, on tärkeää erotella huolelllisesti julkaisemiseen kelpaavat aineistot muista. Tietokannoissa saattaa olla sekaisin julkisia ja salaisia tietoja. Esimerkiksi monet valtion työntekijöiden nimet ovat periaatteessa julkisia, mutta esimerkiksi hävittäjälentäjistä ei haluta kansallisen turvallisuuden vuoksi kertoa mitään. Nopean datan avaamisen kannalta tällaiset kokonaisuudet kannattaa lykätä myöhemmäksi. Erotellaan aineistot täysin julkisiin, epäselviin ja ei-julkisiin. Aluksi voidaan keskittyä pelkästään selvästi julkisten aineistojen avaamiseen.
+
+Vielä ei kannata siivota listalta pois sellaisia aineistoja, joiden julkaisemiseen organisaatiolla ei ole oikeutta. Mahdollisuuksien mukaan myös näistä aineistoista kannattaa kertoa. Organisaation ulkopuolisten toimijoiden kannalta tällainen tieto on erittäin arvokasta hallinnon tietovarantoihin liittyvän kokonaiskuvan hahmottamisen kannalta.
+
+Seuraavaksi suunnitellaan, ketkä toimivat organisaation yhteyshenkilöinä datan höydyntäjiin päin ja miten esiintuleviin asioihin reagoidaan. Voidaan esimerkiksi varautua etukäteen nostamaan esiin mielenkiintoisia datan käyttötapoja ja miettiä, kuinka konfliktitilanteissa toimitaan ja miettiä vastauksia, miten esimerkiksi reagoidaan datan epämoraaliseen käyttöön. 
+
+Itse datan jakamiseen ei aluksi tarvitse tehdä minkäänlaista käyttöliittymää. Kaikkien kannalta on helpointa, jos datan hyödyntäjiä ei pyydetä rekisteröitymään tai tilaamaan aineistoa organisaatiolta, vaan julkisesti kerrotaan osoite, josta data on saatavilla. Raakadatan jakamisella pelkistetysti tarkoitetaan, että jos aineisto on tietokantamuodossa, niin tietokannan taulujen sisältö tulostetaan vaikka pilkkueroteltuun tiedostoon, joka laitetaan internet-palvelimelle. Jos aineisto on jo valmiiksi tiedostoissa, riittää, että nämä tiedostot laitetaan julkisesti saataville.
+
+Raakadatan jakamisen tarkoituksena ei välttämättä ole se, että joku toteuttaisi suoraan järjestelmiä siihen perustuen. Avoimesti julkaistu data auttaa kuitenkin eri tahoja perehtymään tietosisältöön ja suunnittelemaan sen hyödyntämistä. Se tekee kyseisen datan olemassaolon tunnetuksi. Kun kiinnostus tietoa kohtaan on herännyt, dataa tarjoava organisaatio voi yhdessä hyödyntäjien kanssa suunnitella sen käyttöä parhaiten palvelevat palvelurajapinnat tai muut jakeluratkaisut.
+
+Asiaa ei ole syytä mutkistaa ja datan avausta viivyttää esimerkiksi sen takia, että organisaation resurssit eivät juuri nyt riitä rajapintojen määrittelyyn tai viimeistä piirtoa myöten hienon dataportaalin rakentamiseen. Tässäkin iteratiivisuus on tärkeää ja pienin askelin päästään pidemmälle. On parempi laittaa aineisto saataville ensin kevyesti, mutta kuitenkin kokonaisuutena ja rakenteellisessa muodossa, ja vasta sitten alkaa miettiä mahdollisia rajapintoja. Pinnan kiillotus ja käyttöliittymät ovat tärkeysjärjestyksessä viimeisimpiä.
+
+###2.3.3 Dokumentointi ja käyttötilanteet###
+
+Viitteellisen datan avaamisprossessin mukaan on tehty jo kaksi täyttä kierrosta. Ensimmäisen tuloksena julkaistiin lista kaikista organisaation hallussa olevista julkisista aineistoista. Toisen tuloksena julkaistiin ensimmäiset helposti avattavat aineistot. Samalla organisaation omien tietoresurssien tuntemus on vahvistunut ja datan käyttäjäyhteisöihin on syntynyt ensimmäiset kontaktit. Tämän seuraavan dokumentointi ja käyttötilanteet-kierroksen aikana tehdään kattavampi datavarantojen inventaario, julkaistaan uusia aineistoja ja parannetaan niiden julkista dokumentaatiota.
+
+Inventaarioprosessi datan avaamista varten on pitkälti samantyyppinen prosessi, kuin mitä organisaatioissa saatetaan tehdä muutoinkin pelkästään sisäiseen käyttöön omien tietovarantojen jäsentämiseksi ja uudelleenorganisoimiseksi. Inventaariossa tunnistetaan myös omia tietotarpeita organisaation työntekijöiden näkökulmasta. Tämä on pelkkää teknistä datan avaamista työläämpää, mutta toisaalta se tukee organisaation toimintaa  laajemmin.
+
+Analysoimalla käytössä olevia järjestelmiä tietohallinnon kanssa saadaan hyvä pohjakäsitys organisaation tietoresursseista ja niihin liittyvistä käytännöistä. Tietohallinnossa ei kuitenkaan välttämättä tunneta aivan kaikkia organisaatiossa käytettyjä aineistoja ja niiden käyttötapoja. Käsitystä voidaan syventää haastattelemalla eri käyttäjäryhmiä ja kuvailemalla käyttötilanteita, joissa organisaatiossa tarvitaan tietoa. Käyttäjien näkökulma voi auttaa löytämään uusia tiedon hyödyntämismahdollisuuksia, joita voidaan nivoa osaksi datanavausprojektia.
+
+Tämän iteraatiokierroksen julkaisuvaiheessa voidaan kehittää jo aiemmin julkaistujen aineistojen jakelua esimerkiksi toteuttamalla avoin rajapinta (ks. luku 5.5). Aineistojen sisällön ja käyttöoikeuksien kuvailu ja tekninen dokumentaatio ovat myös tärkeitä kehityskohteita.
+
+###2.3.4 Tietoarkkitehtuurin kehittäminen ja sanastotyö###
+
+Pienestä datavarantojen listauksesta liikkeelle lähtenyt prosessi voi ajan myötä kulminoitua tietoarkkitehtuurin kehittämiseen, järjestelmien suunnitteluun ja organisaatiorajat ylittävään tietovarantojen yhtenäistämiseen. Olennaista on, että matkan varrella avattujen datavarantojen hyödyntämisestä saattaa jo olla kertynyt kokemuksia.
+
+Kuten aiemmillakin iteraatiokierroksilla, jälleen organisaatioden omien tietoresurssien dokumentaatiota täydennetään, aineistojen julkaisua parannetaan ja datan avaamisen oppeja otetaan mukaan strategiseen työhön. Tavoitteena on mallintaa organisaatiossa tapahtuvaa tiedon käsittelyä ja tarpeita ja kehittää tietovarantojen yhteiskäyttöä myös yli organisaatiorajojen. Tämän iteraatiokierroksen julkaisuvaiheessa organisaatiolla on laadukkaita tietoaineistoja, jotka on harmonisoitu yhteiskäyttöisiksi muiden organisaatioiden kanssa ja julkaistu hyvin dokumentoidusti.
+
+Verkkopalveluiden ja tietokantojen lisäksi kannattaa tässä vaiheessa kiinnittää huomiota myös dokumenteihin, joita käytetään toistuvasti - tällaisia voivat esimerkiksi olla taulukkolaskentatiedostot. Tiedon käyttämisen lisäksi pyritään löytämään kehittämiskohteita. Käyttäjiltä kysytään minkälaisiin tietoon liittyviin tarpeita heillä on, minkälaisiin ongelmiin he ovat törmänneet ja minkälaisia tarpeita arvelevat muilla käyttäjillä olevan. Tietolähteiden saatavuuden lisäksi selvitetään, onko tieto sellaisessa muodossa, että siitä on hyötyä vai liittyykö sen hyödyntämiseen jonkinlaista kitkaa tai mekaanista työtä.
+
+Jos tietoarkkitehtuurista alkaa esimerkiksi löytyä dokumentteja ja kansioita, joilla ei ole selkeästi kohdennettavaa luojaa tai tekijää, tai ne on arkistoitu poikkeavasti, on tämä yleensä selkeä merkki esimerkiksi a) toimimattomasta käytännöstä, joka on ohitettu (kuten hankala toimintamalli), b) toimintatavasta, jota ei ole ohjeistettu riittävästi (ohjeiden puute) tai c) uudesta tarpeesta, jota ei ole ennakoitu (kuten uusi yksikkö, projektiryhmä etc.)
+
+Useat nykyisistä tietoarkkitehtuurin haasteista kietoutuvat saman asian ympärille: tietoa tuotetaan erittäin runsaasti ja epäyhtenäisesti. Alkuperäisiä työvälineitä ei ole välttämättä suunniteltu aineistojen nykyisen paljouden hallintaan. Aineistojen yhdistäminen muodostuu keskeiseksi ongelmaksi organisaatioiden sisällä ja organisaatioiden välisessä yhteistoiminnassa. Huonossa tapauksessa lähtötilanteessa ei ole saatavilla kunnollista kuvausta siitä, mitä talletettua tietoa on missäkin järjestelmässä. Kukin toimija katsoo asiasta vain omasta näkökulmastaan, tiedot ovat hajallaan eri järjestelmissä ja tietoa samoista asioista kerätään ja päivitetään useissa paikoissa.
+
+Aineistojen kuvaamisella ja menetelmien määrittelyllä pyritään ratkomaan ja ennaltaehkäisemään yhteensopivuusongelmia ja luomaan kattava näkemys aineistoihin yli organisaatiorajojen. Organisaatioiden sisällä ja myös organisaatioiden välillä pyritään pikkuhiljaa yhdenmukaistamaan tietoarkkitehtuuria ja löytämään yhteisiä tapoja kuvata tietoa.
+
+Tietoarkkitehtuurin laatiminen edellyttää eri osapuolten organisoitua yhteistoimintaa, aikaa ja runsasta työtä. Mitä laajempi näkemys pyritään saavuttamaan, sitä työläämpää se on. Esimerkki tällaisesta tietoarkkitehtuurihankkeesta on hiljattain valmistunut kaksivuotinen KuntaGML-hanke, jonka tavoitteena oli ottaa kunnissa käyttöön standardimuotoiset rajapinnat paikkatiedolle, kuten kaavoituksen pohjatiedoille. Hyvä arkkitehtuuri palkitsee työläydestään huolimatta järjestelmien yksinkertaisempana ylläpitona, säästyneenä työnä, tietovarantojen laadun paranemisena ja ennen kaikkea mahdollistaa tietojen laajemman uudelleenkäytön.
