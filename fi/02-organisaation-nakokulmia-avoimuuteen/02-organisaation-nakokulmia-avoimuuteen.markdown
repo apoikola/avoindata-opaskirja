@@ -35,7 +35,7 @@ Käytännön sovellusesimerkki New Yorkista, ja ajatuskulku kotimaisiin kirjasto
 
 Julkishallinnon datavarantoja voidaan jäsentää esimerkiksi tuottajaorganisaatioiden, aineistojen sisällön tai datan oletettujen käyttötarkoitusten perusteella. Aiemmissa keskustelunavauksissa tarkastelua on kentän laajuuden takia yleensä rajattu esimerkiksi vain joihinkin seuraavista: paikkatieto (MMM 2005), organisatorisesti, esim. valtion budjettitalouden piiriin kuuluvien organisaatioiden tuottama data (Kuronen 1998). Tässä oppaassa laajennamme tarkastelua koskemaan periaatteessa kaikkea lain mukaisesti julkista, hallinnon tuottamaa tietoa.
 
-On olennaista, että organisaatioissa tunnistetaan omat tietovarannot ja niistä jaetaan tietoa ja viestitään. Valtion tasolla on meneillään tietoarkkitehtuurin määrittelytyö (VM 2009), jonka puitteissa  on tehty alustava kaavio suomalaisten datavarantojen kokonaiskenttää: «Tietomaaston kartoitusta – merkittäviä tietokokonaisuuksia» (Liite 3).
+On olennaista, että organisaatioissa tunnistetaan omat tietovarannot ja niistä jaetaan tietoa ja viestitään. Valtion tasolla on meneillään tietoarkkitehtuurin määrittelytyö (VM 2009), jonka puitteissa  on tehty alustava kaavio suomalaisten datavarantojen kokonaiskenttää: _Tietomaaston kartoitusta – merkittäviä tietokokonaisuuksia_ (Liite 3).
 
 Vaikka oppaassa keskitytään nimenomaan julkishallintoon merkittävänä informaation tuottajana, niin ekosysteemin näkökulmasta ei ole olennaista, kuka tuottaa ja kuka käyttää informaatiota. Nykyään tilanne saattaakin olla jo niin, että yksityiset yritykset tuottavat lähes yhtä paljon dataa kuin julkishallinnon organisaatiot. Enenevässä määrin myös yksittäiset kansalaiset osallistuvat datan tuotantoon ja sen jalostamiseen informaatioksi ja tiedoksi. Avoimen datan ekosysteemissä hallinnon organisaatiot, kansalaiset ja yritykset ovat kaikki paitsi tiedon käyttäjiä myös tiedon tuottajia – usein molempia samaan aikaan. Ekosysteemi-ajattelussa toimijoita ovat paitsi organisaatiot, niin myös yksittäiset ihmiset, jotka ovat keskenään vuorovaikutuksessa ja muokkaavat ekosysteemin käytäntöjä.
 
@@ -250,7 +250,7 @@ Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saat
 
 ###2.3.1 Datasta ilmoittaminen###
 
-Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: «_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_». Uudelleenkäyttäjät vastaavat: «_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_»
+Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: "_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_". Uudelleenkäyttäjät vastaavat: "_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_".
 
 Aivan ensimmäinen julkaistava data tulisi olla listaus aineistoista, joita organisaatiolla ylipäätään on olemassa, vaikka nämä aineistot eivät vielä olisi saatavilla. Tällaista organisaation nettisivuilla tai laajemmassa useiden organisaatioiden tietoja yhdistävässä datakatalogissa julkaistavaa listausta kutsutaan organisaation julkisten tietoaineistojen rekisteriksi (Information Asset Registry IAR).  Listaukseen sisältyvät sekä jo avoimet datavarannot että tietolähteet, jotka eivät vielä ole avoimesti saatavilla, mutta ovat kuitenkin julkisia ja joiden avoimuutta voidaan jatkossa lisätä.
 
