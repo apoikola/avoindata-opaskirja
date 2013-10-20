@@ -1,5 +1,5 @@
-Antti Poikola
-Petri Kola
+Antti Poikola<br/>
+Petri Kola<br/>
 Kari A. Hintikka
 
 
@@ -25,11 +25,8 @@ Tämä teos on lisensoitu Creative Commons Nimeä 1.0 Suomi lisenssillä. Teokse
 
 Valittu lisenssi tarkoittaa, että oppaan sisältö on vapaasti käytettävissä, kunhan alkuperäislähteeseen viitataan. Ilman Creative Commons -lisenssiä kirjallisen julkaisun tekijänoikeudet rajoittaisivat sen käyttömahdollisuuksia datan avaamisen tukemiseksi. Oppaassa kannustetaan vastaavien sallivien lisensointikäytäntöjen laajempaa käyttöönottoa hallinnossa.
 
-Ulkoasu: Kirmo Kivelä ja Inari Savola
-
-ISBN 978-952-243-145-5 (painotuote)
-
-ISBN 978-952-243-146-2 (verkkojulkaisu http://www.lvm.fi)
-
+Ulkoasu: Kirmo Kivelä ja Inari Savola<br/>
+ISBN 978-952-243-145-5 (painotuote)<br/>
+ISBN 978-952-243-146-2 (verkkojulkaisu http://www.lvm.fi)<br/>
 Edita Prima Oy, Helsinki 2010
 
