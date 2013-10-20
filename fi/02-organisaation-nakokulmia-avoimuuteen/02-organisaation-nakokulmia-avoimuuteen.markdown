@@ -24,8 +24,9 @@ Tässä luvussa esiteltävät datan avoimuudet mittarit (2.2) ja viitteellinen d
 
 Potentiaalisia toimijoita avoimen datan ekosysteemissä on niin julkishallinnon organisaatioissa, yrityksissa, järjestöissä kuin kansalaisten parissa. Julkishallinnolla on merkittävä rooli datan tuotannossa ja siksi olisi oleellista, että mahdollisimman suuri osa julkishallinnosta on mukana. Julkishallinnon datasta puhuttaessa tulee yleensä ensimmäisenä mieleen tunnetut perusrekisterit, kuten väestörekisteri, kiinteistörekisteri jne. sekä kenties tilastotiedot ja säätiedot. Myös kartta-aineistot ja paikkatieto on melko laajasti tunnettua ja jotkut muistavat mainita erilaiset liikennetiedot. Hallinnon data-aineistoja ei Suomessa ole kattavasti kartoitettu, mutta niiden määrä on eri arvioiden mukaan kuitenkin hämmästyttävän suuri.
 
->Case: Dataa on kaikkialla – puurekisteri ja kirjaston tietokannat
-Käytännön sovellusesimerkki New Yorkista, ja ajatuskulku kotimaisiin kirjastoihin liittyen osoittavat, että julkista dataa on kaikkialla kunhan sen olemassaolon huomaa.
+>**Case: Dataa on kaikkialla – puurekisteri ja kirjaston tietokannat**
+
+>Käytännön sovellusesimerkki New Yorkista, ja ajatuskulku kotimaisiin kirjastoihin liittyen osoittavat, että julkista dataa on kaikkialla kunhan sen olemassaolon huomaa.
 
 >1) Brett Camperin toteuttama Puut lähelläsi (Trees Near You) -palvelu sai kunniamaininnan New Yorkin kaupungin avoimen datan hyödyntämiseskilpailussa 2010. Ilmainen iPhone-sovellus kertoo käyttäjälle sijainnin perusteella tietoja yli 500 000 elävästä puustä New Yorkin kaupungissa. Sovellus yhdistelee puhelimesta saatavaa GPS-sijaintitietoa, Wikipedia-artikkeleita puulajeista ja kaupungin avoimesti julkaisemaa puurekisteriä. Tämä on hyvä esimerkki siitä, kuinka paljon potentiaalisesti hyödyllistä dataa on olemassa mutta jonka olemassaoloa ei yleensä tule ajatelleeksikaan.
 

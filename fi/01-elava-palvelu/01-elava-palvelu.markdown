@@ -14,9 +14,9 @@ Omaa dataansa jaettavaksi tarjoavalla organisaatiolla on monia keinoja, joilla s
 
 Uuden-Seelannin datanavausprojekteissa työskennellyt Nat Torkington kiteyttää artikkelissaan _Lessons learned from the Open Data front lines_ (Torkington 2010) yhteisölähtöisen toimintatavan merkityksen uudenlaisten sovellusten syntymisessä. Helpoin tapa vakuuttaa ihmisiä avoimen datan hyödyistä on näyttää konkreettinen esimerkki, jonka ihmiset kokevat itselleen hyödylliseksi ja jossa avointa dataa aiotaan yhdistää uudella tavalla palvelun tuottamiseksi.
 
->Case: Apps for Democracy (Washington DC.)
+>**Case: Apps for Democracy (Washington DC.)**
 
->"Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke."
+>_"Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke."_
 >–Vivek Kundra, Washington D.C:n entinen tietohallintojohtaja, nykyinen Yhdysvaltain liittovaltion tietohallintojohtaja
 
 >Kenties maailman ensimmäinen kattava julkisten datavarantojen katalogi (ks. luku 6.1) on jo vuonna 2006 perustettu Washington D.C:n hallinnon ylläpitämä katalogi (http://data.octo.dc.gov). Katalogi sisältää satoja laadukkaita aineistoja reaaliaikaisista julkisen liikenteen syötetiedoista koulujen vertailutuloksiin ja seudullisiin tilastotietoihin. Katalogin julkistamisen jälkeen ei pariin vuoteen kuitenkaan ollut syntynyt moniakaan näkyviä sovelluksia, ja katalogi oli ollut lähinnä hallinnon itsensä käytössä. Apps for Democracy -kilpailu kehitettiin kannustimeksi, jotta katalogin aineistoja käytettäisiin laajasti. 
