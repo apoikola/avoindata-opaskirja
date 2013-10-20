@@ -4,6 +4,8 @@ tieto, mikä on julkista, olisi
 myös helposti löydettävissä ja
 saatavissa yhdestä paikasta?
 
+KUVA: Teknostadi, Jussi Seppänen
+
 
 #6. Avoimen datan infrastruktuuri#
 
