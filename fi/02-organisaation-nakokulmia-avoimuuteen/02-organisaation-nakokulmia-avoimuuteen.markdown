@@ -245,6 +245,9 @@ Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saat
 >* Kolmas kierros: tavataan käyttäjiä esimerkiksi aineiston käyttäjien työpajassa
 >* Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä
 
+[Kuva 2.1 Datan avaamisessa voidaan edetä vaiheittain vuorovaikutuksessa sen hyödyntäjien kanssa.]
+
+
 ###2.3.1 Datasta ilmoittaminen###
 
 Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: «_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_». Uudelleenkäyttäjät vastaavat: «_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_»
