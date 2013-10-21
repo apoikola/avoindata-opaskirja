@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_julkinendata
 
 chapter: 2
 title: Organisaation näkökulmia avoimuuteen
