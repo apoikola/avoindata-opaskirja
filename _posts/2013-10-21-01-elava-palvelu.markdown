@@ -1,10 +1,22 @@
-Monet toimivat nettipalvelut ovat syntyneet kehittäjien omista tarpeista ja heidän havainnoistaan.
+---
+layout: post
 
+chapter: 1
+title: Elävä palvelu
+subtitle: "Monet toimivat nettipalvelut ovat syntyneet kehittäjien omista tarpeista ja heidän havainnoistaan."
+cover_image: blog-cover.jpg
+
+excerpt: "Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus."
+
+author:
+  name: Antti Poikola
+  twitter: apoikola
+  bio: GitHubberi
+  image: ks.png
+---
 
 KUVA: dalbera / FLICR.com | CREATIVE COMMONS
 
-
-#1. Elävä palvelu#
 
 Datan avaaminen muiden käyttöön on paljon enemmän kuin teknologian soveltamista ja uusimista. Toimintaa suunniteltaessa on tarpeen huomioida alusta lähtien käyttäjät, toimintatavat ja oppimismahdollisuudet. Tässä luvussa käsittelemme avoimen datan teemaa ihmisten näkökulmasta. Tarkastelussa on, miten potentiaalisia avoimen datan käyttäjäryhmiä kohdataan, mitä on käyttäjälähtöinen innovointi (TEM 2010) ja mitä konkreettisia käyttökohteita avoimella datalla on. Tuomme keskusteluun myös elävä palvelu -käsitteen, jolla painotamme palvelun toiminnallisuutta.
 
@@ -14,10 +26,10 @@ Omaa dataansa jaettavaksi tarjoavalla organisaatiolla on monia keinoja, joilla s
 
 Uuden-Seelannin datanavausprojekteissa työskennellyt Nat Torkington kiteyttää artikkelissaan _Lessons learned from the Open Data front lines_ (Torkington 2010) yhteisölähtöisen toimintatavan merkityksen uudenlaisten sovellusten syntymisessä. Helpoin tapa vakuuttaa ihmisiä avoimen datan hyödyistä on näyttää konkreettinen esimerkki, jonka ihmiset kokevat itselleen hyödylliseksi ja jossa avointa dataa aiotaan yhdistää uudella tavalla palvelun tuottamiseksi.
 
->**Case: Apps for Democracy (Washington DC.)**
+**Case: Apps for Democracy (Washington DC.)**
 
->_"Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke."_
->–Vivek Kundra, Washington D.C:n entinen tietohallintojohtaja, nykyinen Yhdysvaltain liittovaltion tietohallintojohtaja
+>Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke."
+>Vivek Kundra, Washington D.C:n entinen tietohallintojohtaja, nykyinen Yhdysvaltain liittovaltion tietohallintojohtaja
 
 >Kenties maailman ensimmäinen kattava julkisten datavarantojen katalogi (ks. luku 6.1) on jo vuonna 2006 perustettu Washington D.C:n hallinnon ylläpitämä katalogi (http://data.octo.dc.gov). Katalogi sisältää satoja laadukkaita aineistoja reaaliaikaisista julkisen liikenteen syötetiedoista koulujen vertailutuloksiin ja seudullisiin tilastotietoihin. Katalogin julkistamisen jälkeen ei pariin vuoteen kuitenkaan ollut syntynyt moniakaan näkyviä sovelluksia, ja katalogi oli ollut lähinnä hallinnon itsensä käytössä. Apps for Democracy -kilpailu kehitettiin kannustimeksi, jotta katalogin aineistoja käytettäisiin laajasti. 
 
@@ -25,28 +37,30 @@ Uuden-Seelannin datanavausprojekteissa työskennellyt Nat Torkington kiteyttää
 
 >(Ks. lisää 1.4.2 Innovaatiokilpailu kannustimena toimintaan)
 
-##1.1 Mihin avointa dataa voidaan käyttää?#
+----
+
+## 1.1 Mihin avointa dataa voidaan käyttää?
 
 Helposti miellettävien internetin kautta toimivien sovellusten ohella avoimen datan käyttökohteita on monia muitakin. Tässä jaottelemme käyttökohteet karkeasti neljään kategoriaan: **1) yhdistelmäpalvelut**, **2) koulutus, tutkimus ja tuotekehitys**, **3) prosessien automatisointi** ja **4) käyttäjien yhteistoiminnalliset tuotannot**. Lista ei ole kattava, mutta sen avulla voi alkaa miettiä oman organisaation luonnetta ja sen tuottaman datan eri mahdollisuuksia.
 
-**Yhdistelmäpalvelut**
+### Yhdistelmäpalvelut
 
 Oppaan kirjoittamisen aikaan arkea helpottavat verkkosovellukset olivat selkeästi yleisin tapa hyödyntää avointa dataa. Ne visualisoivat, suodattavat tai kokoavat informaatiota eri lähteistä ja vastaavat loppukäyttäjien tiedontarpeisiin. 
 Mashup on yleisilmaisu julkisille, liike-elämän tai kansalaisten perustamille avoimen datan sovelluksille, jotka koostavat eri lähteistä saatavilla olevaa dataa niillä periaatteilla, joita palvelun perustajat haluavat. Mashup-termille ei toistaiseksi ole vielä vakiintunutta suomennosta, mutta kutsumme sitä Tekniikan sanastokeskuksen suosituksen mukaisesti yhdistelmäpalveluksi.
 
 Vuonna 2005 amerikkalaistoimittaja Adrian Holovaty  kyllästyi soittamaan joka aamu poliisilaitokselle kysyäkseen rikosraporttia. Kun hän havaitsi, että raportit ovat saatavilla automaattisesti, hän yhdisti ne tuolloin vasta julkaistuun Google Maps -sovellukseen. Tuloksena oli ChicagoCrimes-palvelu, josta näki lähes realiaikaisesti, millaisia rikoksia on tapahtunut. Suomessa vastaavan sovelluksen teki Tilannehuone.fi, joka yhdisti Hälytyskeskuksen tilannetiedotuksen samaiseen Google Maps'iin. Yksinkertainen ja kiinnostava Tilannehuone.fi kiinnostaa, sillä siinä vierailee viikoittain lähes 300 000 kävijää. Yhdistelmäpalvelut sinänsä voivat vastata monenlaisiin tarpeisiin, kuten arjen helpottamiseen, politiikan läpinäkyvyyden lisäämiseen tai, kuten Adrian Holovatyn tapauksessa, olla journalistisen työn väline.
 
-**Koulutus, tutkimus ja tuotekehitys**
+### Koulutus, tutkimus ja tuotekehitys
 
 Tutkimusorganisaatioissa datan helppo saatavuus tukee laadukkaan tutkimuksen syntymistä. Koulutuksessa dataa voidaan hyödyntää asioiden havainnollistamiseen. Loistava esimerkki visualisaation voimasta on Tukholman Karoliinisen Instituutin professorin Hans Roslingin johdolla kehitetty GapMinder-palvelu. Ohjelmiston esiaste syntyi tarpeesta visualisoida opiskelijoille, kuinka 1960-luvulla syntynyt käsitys maailman kahtiajakautuneisuudesta perhekoon ja eliniän odotteen perusteella ei enää pidä paikkaansa.
 
 Kuluttajille suunnattuja yhdistelmäpalveluita suuremmassa mittakaavassa tiedon louhintaa, yhdistelyä ja visualisointia voidaan tehdä tutkimus- ja tuotekehitysprojekteissa. Tällöin tavoitteena ei ole niinkään yksittäinen arkea helpottava tai hallinnon läpinäkyvyyttä lisäävä yhdistelmäpalvelu, vaan kokonaan uuden tiedon synnyttäminen tai jonkin toiminnan optimointi laajaan data-aineistoon perustuen. Esimerkiksi liikennemittausten, julkisen liikenteen käyttötilastojen ja erilaisten alueita koskevien tilastojen perusteella voidaan tehdä kaupungin liikennejärjestelmää koskevia optimointimalleja tai vaikkapa yksityisen toimijan toimesta optimoida yrityksen palvelupisteverkostoa. Nykyisin erilaiset organisaatiot tekevät tämäntyyppisiä optimointeja ja simulaatioita nojautuen omiin datavarantoihinsa, mutta avoin data mahdollistaisi myös lisälähteiden ja muiden organisaatioiden datavarantojen hyödyntämisen.
 
-**Automaatio**
+### Automaatio
 
 Dataa voidaan hyödyntää myös automaatiossa, jossa datan avulla ohjataan tai helpotetaan jotakin prosessia. Esimerkiksi erilaisten nettipalveluiden yhteydessä osoitelomakkeiden täydentämistä ja tarkistamista voidaan automatisoida postinumero- ja osoitedatan avulla. Voidaan ajatella myös lämmitys- ja ilmastointijärjestelmiä, jotka hyödyntäisivät säädataa, sekä sähköverkon kapasiteetista kertovaa dataa ja automaattisesti ohjaisivat itseään siten, että sähkön kulutus laskisi ja etenkin kulutushuiput tasaantuisivat (Smart Grid). Tämä on vielä laajasti toteutumatta, mutta tämänkin suuntainen kehitys voisi nopeutua, mikäli lisädataa olisi saatavilla.
 
-**Käyttäjien yhteistoiminnalliset tuotannot**
+### Käyttäjien yhteistoiminnalliset tuotannot
 
 Oma lukunsa avoimen datan hyödyissä on aineiston laadun parantaminen ja kerääminen kollektiivisesti sekä päällekkäisen työn vähentäminen yhteiskäyttöisen datavarannon myötä. Jeff Howe (2006) kehitti termin crowdsourcing kuvaamaan internetin mahdollistamia uusia tapoja organisoida työtä. Termi tarkoittaa pelkistettynä perinteistä työn ulkoistamista (outsourcing) internetiin nimeämättömälle ihmisjoukolle (crowd). Termille ei ole vielä vakiintunutta suomennosta, on puhuttu esimerkiksi talkoistamisesta ja joukkouttamisesta. Crowdsourcing'issa on monia eri muotoja. Tyypillisesti joko etsitään parasta mahdollista ratkaisua, jota voi ehdottaa periaatteessa kuka tahansa, tai dataa kerätään, luokitellaan, lajitellaan, tuotetaan ja jalostetaan kollektiivisesti.
 
@@ -54,7 +68,9 @@ Wikipedia ja OpenStreetmap ovat kenties tunnetuimpia esimerkkejä crowdsourcing-
 
 [Kuva 1.1: Yhteisöllisesti ja vapaaehtoisvoimin tuotettu Open Street Map on mm. Tampereen keskustan jalankulkuväylien ja puistojen, sekä nimistön osalta huomattavasti Google-karttaa tarkempi. Suomen osalta yhteisö on piirtänyt ja GPS-paikantimilla mitannut vapaaehtoisesti kartan alusta asti. Open Street Map -yhteisölle voidaan tehdä myös paikkatietolahjoituksia, kuten on tapahtunut Yhdysvalloissa.]
 
-##1.2 Käyttäjälähtöinen innovointi#
+----
+
+## 1.2 Käyttäjälähtöinen innovointi
 
 Palveluiden elinkaari alkaa yleensä tarpeiden tunnistamisesta, mitä seuraa ideointi, testaus ja käyttökokemusten ja palautteen perusteella tapahtuva iteratiivinen kehitystyö. Käyttäjälähtöinen tuotekehitys ja innovointi ovat malleja, joissa palvelun tuottaja ottaa loppukäyttäjät mahdollisimman varhaisessa vaiheessa mukaan ohjaamaan palvelun ideointia ja kehitystä.
 
@@ -68,7 +84,9 @@ Mikäli data ei ole avointa, vastuu ideoinnista ja toteutuksesta on dataa tuotta
 
 Käyttäjälähtöistä tuotekehitystä äärimmillään on, kun palvelun kehittäjät ovat itse myös loppukäyttäjiä, esimerkiksi YouTuben sanotaan syntyneen sen perustajien tarpeesta jakaa netissä videotiedostoja (Cloud 2006).  Samoin ensimmäinen wiki-sovellus syntyi, kun Ward Cunningham vuonna 1995 loi WikiWikiWeb-alustan, jotta ohjelmoijat voisivat helposti jakaa ohjelmakoodiin liittyvää tietoa keskenään. Julkishallinnon avoin data mahdollistaa sen, että ihmiset voivat itse omia tarpeitaan varten laajentaa julkisia palveluita. Esimerkiksi julkisilla liikennevälineillä keskustaan suuntautuvien työmatkojen matka-aikoja ja asuntojen hintoja kartalla visualisoiva Mapumental-palvelu syntyi asunnon ostoa suunnittelevien ihmisten tarpeista. Vastaavasti Hilmappi-palvelun tuottanut suomalainen Gemilo haistoi markkinaraon yritysten tarpeessa seurata helposti julkisia tarjouskilpailuja alueellisesti.
 
-##1.3 Ketterät menetelmät datan avaamisessa##
+----
+
+## 1.3 Ketterät menetelmät datan avaamisessa
 
 Nyt digitaalisuuden ja globalisaation myötä organisaatioiden toimintaympäristö ja sitä kuvaava informaatiota muuttuu nopeammin kuin kukaan tai mikään organisaatio pystyy käsittelemään. Murros kaipaa orientoitumiseen uudenlaista lähestymistapaa – ketteryyttä. Toimintaympäristön jatkuvasti muuttuessa ei välttämättä ole järkevää suunnitella yksityiskohtia kovin kauas tulevaisuuteen. Mitä kauemmas tulevaisuuteen suunnitellaan, sitä hatarampiin oletuksiin suunnitelma perustuu.
 
@@ -78,7 +96,9 @@ Ketteryydestä tai iteratiivisuudesta puhuttaessa korostetaan tarpeita vastaavie
 
 Vielä on liian varhaista arvioida Suomen tai maailman mittakaavassa, mihin julkishallinnon datavarantojen avaaminen johtaa. Myöskin tämä opas esimerkkeineen ja toimintaohjeineen on tuomittu vanhenemaan nopeasti. Ketterät menetelmät soveltuvatkin siksi hyvin lähtökohdaksi julkishallinnon organisaatioiden datan avaamiseen. Ketteryyteen viitataan seuraavissa luvuissa, joissa esitellään datavarantojen inventaariota ja julkaisun teknologisia ratkaisuja. Ideana on, että liikkeelle kannattaa lähteä pienestä. Ensimmäiset datan avaamisen myöstä syntyneet elävät palvelut viitoittavat tietä jatkoon.
 
-##1.4 Organisaatio mahdollistajana#
+----
+
+## 1.4 Organisaatio mahdollistajana
 
 Toimintaympäristön muuttuessa myös organisaatioiden roolit muuttuvat. Tämä näkyy jo nyt esimerkiksi sisältöteollisuudessa internetin kehityksen myötä. Äänitemyynnin mullisti tietokonevalmistaja Apple iTunes-verkkokaupallaan eikä musiikkiteollisuus. Google on syönyt osan kaupallisten tietokoneohjelmistojen markkinoista maksuttomilla palveluillaan. Positiivisesti katsoen muutos mahdollistaa esimerkiksi hallinnolle uudentyyppistä toimintaa, joka olisi ollut ennen internetiä liian kallista. Uusia rooleja ovat esimerkiksi seuraavat:  
 
@@ -96,7 +116,7 @@ Tim O'Reilly (2010) kuvaa hallinnon muuttuvaa paradigmaa verkkoteknologioiden ja
 
 Tim O'Reillyn ajatuskulkua Suomen oloihin sovittaen puhumme hallinnosta mahdollistajana, joka on hieman enemmän kuin vain pelkkä alusta. Mahdollistajuus on aktiivista toimintaa, kun alusta antaa mielikuvan passiivisesta. Avoimen datan suhteen sanomme, että hallinnolle olisi perusteltua tarjota dataa uudelleenkäytettävässä muodossa ja toimia alustana, mutta sen lisäksi aktiivisesti kannustaa yrityksiä, kansalaisia ja muita tahoja hyödyntämään dataa.
 
-###1.4.1 Avoin toiminta ja viestintä datan hyödyntäjille#
+#### 1.4.1 Avoin toiminta ja viestintä datan hyödyntäjille
 
 Datan avaamisen projektit eivät ole irrallisia teknisiä hankkeita, vaan ne kannattaa rakentaa dataa käyttävien ja jalostavien ihmisten ja yhteisöjen ympärille osaksi avoimen datan ekosysteemiä. Aiemmin esiteltyjä käyttäjälähtöisen innovoinnin periaatteita voidaan soveltaa tiedonavaamisprosessiin ja datarajapinnan luomiseen. Datan käyttäjät ovat parhaita asiantuntijoita siinä, kuinka dataa kannattaa tarjota, jotta sitä aktiivisesti hyödynnettäisiin ja eläviä palveluita syntyisi. Dataa avaavat organisaatiot voivat esitellä rajapintoja, saada palautetta ja saada ihmiset auttamaan niiden kehityksessä.
 
@@ -106,7 +126,7 @@ Viestinnän kannalta keskeisessä roolissa ovat ohjelmoijat, jotka käyttävät 
 
 Datan avaamista voidaan valmistella tavanomaisista suljetuista projektikäytännöistä poiketen osittain avoimesti internetissä. Luonteva tapa tavoittaa ohjelmointiyhteisöjä ja muita datan hyödyntämisestä kiinnostuneita tahoja on jalkautua sosiaalisen median palveluihin. Muun muassa Sitra on koordinoinut jo muutaman vuoden avoimessa internetissä erilaisia kansalaispaneeleja niin strategiatyössä kuin uusien strategia-aiheiden etsinnässä. Aiemmin suljetut, asiantuntijakeskeiset tapahtumat on avattu internetiin kenen tahansa kiinnostuneen ulottuville (Luoto 2010). Monet muutkin organisaatiot ovat jo löytäneet sosiaalisen median. Eri tutkimusten mukaan hallinto on ollut Suomessa jopa liike-elämää aktiivisempi internetin uusien mahdollisuuksien käyttöönotossa. Läsnäolo internetissä mahdollistaa tyystin uuden kontaktipinnan, jota ei aiemmin ole ollut. Tästä esimerkkeinä vaikkapa poliisin toiminta IRC-Galleriassa, Facebookissa sekä netari.fi nuorisotoiminta useissa eri verkkopalveluissa.
 
-###1.4.2 Innovaatiokilpailu kannustimena toimintaan#
+#### 1.4.2 Innovaatiokilpailu kannustimena toimintaan
 
 Teknisen mahdollisuuden lisäksi elävien palveluiden ja sovellusten syntymiseen tarvitaan myös yhteisöjä: toimijoita, ohjelmoijia, tutkijoita, yrityksiä, järjestöjä, jne, jotka tarttuvat tilaisuuteen ja käyttävät dataa luovasti raaka-aineena. Mitä kiinteämpi ja keskustelevampi datan kanssa toimivien ihmisten ja organisaatioiden ekosysteemi Suomeen kehittyy, sitä suurempi hyöty aukenevista datavarannoista saadaan Suomeen ja suomalaisille. On monia tapoja, joilla organisaatiot voivat varsin kustannustehokkaasti tukea avoimen datan hyödyntämistä ja samalla kerätä kokemusta yhteisöjen kanssa toimimisesta. Esimerkiksi oppaan kirjoittajilla oli mahdollisuus osallistua Helsingin seudun liikennelaitoksen järjestämään Reittioppaan API:n käyttäjien ja kehittäjien yhteiseen työpajaan. Tässä esitetään hieman laajemmin datan hyödyntämiseen tähtäävät innovaatiokilpailut, jotka ovat etenkin ekosysteemin muotoutumisen alkuvaiheessa toimivaksi havaittu konsepti.
 

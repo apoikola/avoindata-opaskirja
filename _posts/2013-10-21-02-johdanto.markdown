@@ -1,13 +1,23 @@
-Hallinto tuottaa jatkuvasti
-suuren määrän dataa, joka voisi
-olla tehokkaamminkin käytössä
-huomioiden tietovarantojemme laadukkuus.
+---
+layout: post
+
+title: Johdanto
+subtitle: "Julkisen hallinnon suuret informaatiovarannot"
+cover_image: blog-cover.jpg
+
+excerpt: "Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus."
+
+author:
+  name: Antti Poikola
+  twitter: apoikola
+  bio: GitHubberi
+  image: ks.png
+---
+
+Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus.
 
 
 KUVA: ACB / FLICR.com | CREATIVE COMMONS
-
-
-#Johdanto#
 
 Julkinen hallinto omistaa ja hallinnoi laajoja, rahallisesti ja yhteiskunnallisesti arvokkaita informaatiovarantoja. Suurin osa näistä raakamuotoisena datana olevista varannoista on tällä hetkellä vain niiden käytössä, joilla on pääsy aineistoihin. Datan jatkojalostukseen päätyy arvioiden mukaan vain pieni osa käytettävistä olevasta. Internetin kehitys niin yhteisöllisiltä kuin teknologisilta ominaisuuksiltaan antaa uusia mahdollisuuksia avoimeen datapolitiikkaan. Kansallisten tietovarantojen maksuttoman käytön salliminen ja sitä tukeva toimintakulttuurin muutos ovat merkittävimpiä asioita, joita suomalaisen tietoyhteiskunnan kehittämiseksi voitaisiin tällä hetkellä toteuttaa. Tämä toisi uusia mahdollisuuksia vastata ajankohtaisiin haasteisiin. Maksuton julkinen data olisi myös suomalaisille instituutioille mahdollisuus uudistua ja oppia verkostoaikakauden yhteistoimintataitoja sekä suunnata suomalaisen yhteiskunnan kehittämistä uudenlaiseen yhdessä tekemisen kulttuuriin.
 
@@ -19,7 +29,7 @@ Tätä kirjoitettaessa ajankohtaisin kannanotto avoimen datan puolesta on valtio
 
 Enää ei nähdäksemme ole tarvetta periaatekeskusteluun avoimesta datasta, vaan erityistä painetta kohdistuu jo tietotaidon lisäämiseen ja käytäntöjen luomiseen orientoivalla opastuksella.
 
-##Avoin data monialaisen hyödyn lähteenä#
+## Avoin data monialaisen hyödyn lähteenä
 
 Suomessa on hallinnon avoimeen ja maksuttomaan dataan liittyvässä keskustelussa tähän asti viitattu ensisijaisesti liike-elämän hyötyihin ja kansalliseen kilpailukykyyn. Markkinatalouden kärkimaassa Yhdysvalloissa julkista dataa koskeva lainsäädäntö on jo pitkään perustunut ajatukselle, että verovaroin tuotetun datan tulee olla maksutta kaikkien saatavilla. Tämä lähtökohta on johtanut merkittävään julkisen datan uudelleenkäyttöön ja taloudelliseen toimeliaisuuteen. Suomessa, kuten muuallakin Euroopassa, lähtökohta on ollut varsin erilainen ja suhtautuminen datavarantoihin perinteisesti protektionistista. Edellytykset uudenlaiselle ajattelulle kasvavat kuitenkin jatkuvasti, kun avoimet toimintamallit kehittyvä ainakin osaksi internetin ansiosta.
 
@@ -29,7 +39,7 @@ Julkisten datavarantojen avaaminen edistää samanaikaisesti ainakin kolmea eri 
 
 Avoin data ja datan koneluettavuus virtaviivaistavat prosesseja, mutta tätä mahdollisuutta ei ole vielä käytetty kovinkaan laajasti. Liikenne- ja viestintäministerin asettama selvitysmies Paul Paukku kritisoi hallintoa kyvyttömyydestä yhteistyöhön liike-elämän kanssa: “Not invented here- syndrooma: valtio rakentaa tyhjästä sitä mitä markkina jo käyttää” (2009). Avoin informaationvälitys ja läpinäkyvyys mahdollistaisivat laajemman näkemyksen, jolla voidaan edistää yhteistyötä. Julkisen datan maksuttomalla jakamisella voidaan välttää myös tahatonta osaoptimointia eli sitä, että virastot säästääkseen omista kustannuksista eivät esimerkiksi osta palveluna väestötietojärjestelmän tarjonnasta, vaan ylläpitävät itse tietokantaa omista asiakkaistaan.
 
-##Oppaan sisältö#
+## Oppaan sisältö
 
 Toistaiseksi maassamme ei ole ollut avoimen julkisen datan hyödyntämiseen opastusta tai käytäntöjä. Tämä opas pyrkii poistamaan tätä puutetta. Se on käytännönläheinen johdatus ensisijaisesti julkishallinnon työntekijöille, jotka haluavat edistää datan avaamista omassa organisaatiossaan, mutta on käyttökelpoinen myös kaikille muille aihepiiristä kiinnostuneille.
 
@@ -51,7 +61,7 @@ Luvut 2, 3, 4 ja 5 avustavat organisaatiota muodostamaan omaa näkökulmaa avoim
 
 **Luku 7:** _Suosituksia Suomelle_ esittää laajempia toimenpidekokonaisuuksia, joilla voitaisiin tukea kansallista avoimen datan infrastruktuurin luomista ja käytäntöjä. Kehitys lähtee yksilöistä ja organisaatioista, mutta kaikkea yksittäiset toimijat tai organisaatiot eivät voi järkevästi edistää, vaan tarvittaisiin kansallisen tason linjanvetoja. Oppaan loppuun olemme koonneet hyväksihavaittuja liitteitä ja työkaluja.
 
-##Data käsitteenä#
+## Data käsitteenä
 
 Suomen kielessä termien data, informaatio (information) ja tieto (knowledge) arkikäytössä ei ole useinkaan selvää eroa. Kotimaisessa puheessa tiedolla viitataan yleensä ja tarkemmin erittelemättä niin dataan, informaatioon kuin tietoonkin. Toisaalta tiedolla on suomenkielessä - muista kielistä poiketen - myös arvollinen merkitys. Esimerkiksi ’tietoyhteiskunta’ sisältää enemmän sivistykseen ja kulttuuriin liittyviä latauksia kuin muissa kielissä neutraalimpi ’informaatioyhteiskunta’. Ihminen voi olla tiedoton monessa mielessä. Datan informaation ja tiedon ohella asiaan liittyviä käsitteitä ovat sisältö ja teos, joihin liittyvät muun muassa tekijänoikeudet.
 
@@ -59,7 +69,7 @@ Informaatiotutkimuksen piirissä datalla tarkoitetaan merkeistä ja symboleista 
 
 _Kaavio. Tiedon arvoketju (Haasio, Savolainen 2004)._
 
->DATA -> INFORMAATIO -> TIETO -> TIETÄMYS -> VIISAUS
+> DATA -> INFORMAATIO -> TIETO -> TIETÄMYS -> VIISAUS
 
 Tieto- ja informaatiokäsitteet voidaan erottaa toisistaan. Niiniluodon (2000) mukaan informaatio on yläkäsite ja tieto sen alakäsitteenä tarkoittaa tarkempaa perusteltavuuteen ja totuudenmukaisuuteen liittyvää vaatimusta. Karvosen (2000) mukaan arkikielessä tieto ja informaatio ovat melkein sama asia, mutta tieteellisessä käytössä niiden välillä on suuri ero. Informaatiosta voidaan hänen mukaansa erottaa ontologisia tasoja, joista vain ylimmät ovat semanttista informaatiota, tietoa. Data-käsite sen sijaan viittaa raaka-aineeseen, joka voi olla hyvin erimuotoista. Usein data arkikielessä viittaa tietoteknisiin järjestelmiin tallennettuun informaatioon. Informaation ja datan välinen ero on hyvin suhteellinen.
 

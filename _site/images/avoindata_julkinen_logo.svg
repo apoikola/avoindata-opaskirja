@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="avoindata_julkinen_logo.svg"
+   inkscape:export-filename="/home/jlehtoma/dev/git-docs/avoindata-opaskirja/images/avoindata_julkinen_cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="724.53716"
+     inkscape:cy="211.46341"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1036"
+     inkscape:window-x="1679"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-572.36218)">
+    <image
+       y="587.362"
+       x="1103.371"
+       id="image3269"
+       xlink:href="file:///home/jlehtoma/dev/git-docs/avoindata-opaskirja/images/lvm_logo.png"
+       height="106.02288"
+       width="278.23346" />
+    <image
+       y="703.23572"
+       x="1139.2897"
+       id="image3299"
+       xlink:href="file:///home/jlehtoma/dev/git-docs/avoindata-opaskirja/images/veropuu2.png"
+       height="347.95639"
+       width="240.74109" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3302"
+       width="162.63457"
+       height="93.944183"
+       x="574.77679"
+       y="68.867912"
+       transform="translate(0,572.36218)" />
+    <image
+       y="575.48651"
+       x="-0.012640337"
+       id="image4080"
+       xlink:href="file:///home/jlehtoma/dev/git-docs/avoindata-opaskirja/images/veropuu3.png"
+       height="477"
+       width="495" />
+    <image
+       y="785.0119"
+       x="921.00024"
+       id="image4091"
+       xlink:href="file:///home/jlehtoma/dev/git-docs/avoindata-opaskirja/images/veropuu4.png"
+       height="266"
+       width="148" />
+  </g>
+</svg>
