@@ -16,8 +16,6 @@ author:
 ---
 
 
-KUVA: A3sthetix / FLICR.com | CREATIVE COMMONS
-
 
 Datan avaamiseen ollaan Suomessa tarttumassa nyt laajalla rintamalla. Liikenne- ja viestintäministeriön on asettanut työryhmän edistämään julkisen informaation saatavuutta - valtiovarainministeriö kaksi (LVM & VM 2010). Valtakunnallinenkin media on tarttunut asiaan (HS 2.7.2010). Mitä tämä tarkoittaa yksittäisen organisaation kannalta?
 
@@ -264,8 +262,6 @@ Kuten jo aikaisemmin mainittiin, niin prosessi on viitteellinen ja toteutus saat
 >* Toinen kierros: ensimmäiset sovellukset, sana leviää
 >* Kolmas kierros: tavataan käyttäjiä esimerkiksi aineiston käyttäjien työpajassa
 >* Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä
-
-[Kuva 2.1 Datan avaamisessa voidaan edetä vaiheittain vuorovaikutuksessa sen hyödyntäjien kanssa.]
 
 ### 2.3.1 Datasta ilmoittaminen 
 

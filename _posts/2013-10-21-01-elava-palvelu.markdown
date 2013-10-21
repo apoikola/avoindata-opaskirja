@@ -15,9 +15,6 @@ author:
   image: ks.png
 ---
 
-KUVA: dalbera / FLICR.com | CREATIVE COMMONS
-
-
 Datan avaaminen muiden käyttöön on paljon enemmän kuin teknologian soveltamista ja uusimista. Toimintaa suunniteltaessa on tarpeen huomioida alusta lähtien käyttäjät, toimintatavat ja oppimismahdollisuudet. Tässä luvussa käsittelemme avoimen datan teemaa ihmisten näkökulmasta. Tarkastelussa on, miten potentiaalisia avoimen datan käyttäjäryhmiä kohdataan, mitä on käyttäjälähtöinen innovointi (TEM 2010) ja mitä konkreettisia käyttökohteita avoimella datalla on. Tuomme keskusteluun myös elävä palvelu -käsitteen, jolla painotamme palvelun toiminnallisuutta.
 
 Olemme jo johdantoluvussa esittäneet perusteluja datan avaamisen puolesta. Tavoitteena voi esimerkiksi olla rajallisten resurssien mahdollisimman tehokas käyttö, paremmin toimiva kansalaisyhteiskunta tai talouden kasvu. Datan avaaminen ei kuitenkaan automaattisesti johda näiden tavoitteiden toteutumiseen, vaan tavoitellut hyödyt saavutetaan vasta, kun avattua dataa myös käytetään.
@@ -65,8 +62,6 @@ Dataa voidaan hyödyntää myös automaatiossa, jossa datan avulla ohjataan tai 
 Oma lukunsa avoimen datan hyödyissä on aineiston laadun parantaminen ja kerääminen kollektiivisesti sekä päällekkäisen työn vähentäminen yhteiskäyttöisen datavarannon myötä. Jeff Howe (2006) kehitti termin crowdsourcing kuvaamaan internetin mahdollistamia uusia tapoja organisoida työtä. Termi tarkoittaa pelkistettynä perinteistä työn ulkoistamista (outsourcing) internetiin nimeämättömälle ihmisjoukolle (crowd). Termille ei ole vielä vakiintunutta suomennosta, on puhuttu esimerkiksi talkoistamisesta ja joukkouttamisesta. Crowdsourcing'issa on monia eri muotoja. Tyypillisesti joko etsitään parasta mahdollista ratkaisua, jota voi ehdottaa periaatteessa kuka tahansa, tai dataa kerätään, luokitellaan, lajitellaan, tuotetaan ja jalostetaan kollektiivisesti.
 
 Wikipedia ja OpenStreetmap ovat kenties tunnetuimpia esimerkkejä crowdsourcing-mallin toiminnasta, mutta jostain syystä usein unohdetaan, että kansalaiset ja yritykset voivat tuottaa dataa myös julkishallinnon hyödynnettäväksi. Kotimainen esimerkki hallinnon hyödyntämästä crowdsourcing'ista on Helsingin kaupungin pilottipalvelu Fillarikanava, jossa pyöräilijät  merkitsevät kartalle arkisia pyöräilyoloihin liittyviä havaintojaan, jotka tallentuvat paikkatiedoksi, joka voidaan huomioida alueita koskevissa  suunnittelu- ja parannushankkeissa. Hieman erilainen sovellus on Britanniassa toteutettu opetusaineistojen yhteistuotanto- ja jakelualusta _Times Educational Supplement_ (TES). Sen on arvioitu säästävän opettajien työaikaa miljardin punnan edestä kahdessa vuodessa (UK 2009), kun opettajat ovat alkaneet palvelun kautta jakaa aineistoja keskenään sen sijaan, että kaikki tuottaisivat oman aineistonsa saman opetussuunnitelman mukaisten sisältöjen opettamiseen.
-
-[Kuva 1.1: Yhteisöllisesti ja vapaaehtoisvoimin tuotettu Open Street Map on mm. Tampereen keskustan jalankulkuväylien ja puistojen, sekä nimistön osalta huomattavasti Google-karttaa tarkempi. Suomen osalta yhteisö on piirtänyt ja GPS-paikantimilla mitannut vapaaehtoisesti kartan alusta asti. Open Street Map -yhteisölle voidaan tehdä myös paikkatietolahjoituksia, kuten on tapahtunut Yhdysvalloissa.]
 
 ----
 
