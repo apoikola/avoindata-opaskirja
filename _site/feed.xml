@@ -6,8 +6,8 @@
     <atom:link href="http://incorporated.sendtoinc.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 21 Oct 2013 17:25:39 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2013 17:25:39 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2013 19:19:34 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2013 19:19:34 +0000</lastBuildDate>
 
     
     
@@ -19,8 +19,6 @@
       <guid>http://incorporated.sendtoinc.com/2013/10/21/02-johdanto</guid>
       <description>
 &lt;p&gt;Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus.&lt;/p&gt;
-
-&lt;p&gt;KUVA: ACB / FLICR.com | CREATIVE COMMONS&lt;/p&gt;
 
 &lt;p&gt;Julkinen hallinto omistaa ja hallinnoi laajoja, rahallisesti ja yhteiskunnallisesti arvokkaita informaatiovarantoja. Suurin osa näistä raakamuotoisena datana olevista varannoista on tällä hetkellä vain niiden käytössä, joilla on pääsy aineistoihin. Datan jatkojalostukseen päätyy arvioiden mukaan vain pieni osa käytettävistä olevasta. Internetin kehitys niin yhteisöllisiltä kuin teknologisilta ominaisuuksiltaan antaa uusia mahdollisuuksia avoimeen datapolitiikkaan. Kansallisten tietovarantojen maksuttoman käytön salliminen ja sitä tukeva toimintakulttuurin muutos ovat merkittävimpiä asioita, joita suomalaisen tietoyhteiskunnan kehittämiseksi voitaisiin tällä hetkellä toteuttaa. Tämä toisi uusia mahdollisuuksia vastata ajankohtaisiin haasteisiin. Maksuton julkinen data olisi myös suomalaisille instituutioille mahdollisuus uudistua ja oppia verkostoaikakauden yhteistoimintataitoja sekä suunnata suomalaisen yhteiskunnan kehittämistä uudenlaiseen yhdessä tekemisen kulttuuriin.&lt;/p&gt;
 
@@ -286,8 +284,6 @@
 &lt;p&gt;Oma lukunsa avoimen datan hyödyissä on aineiston laadun parantaminen ja kerääminen kollektiivisesti sekä päällekkäisen työn vähentäminen yhteiskäyttöisen datavarannon myötä. Jeff Howe (2006) kehitti termin crowdsourcing kuvaamaan internetin mahdollistamia uusia tapoja organisoida työtä. Termi tarkoittaa pelkistettynä perinteistä työn ulkoistamista (outsourcing) internetiin nimeämättömälle ihmisjoukolle (crowd). Termille ei ole vielä vakiintunutta suomennosta, on puhuttu esimerkiksi talkoistamisesta ja joukkouttamisesta. Crowdsourcing’issa on monia eri muotoja. Tyypillisesti joko etsitään parasta mahdollista ratkaisua, jota voi ehdottaa periaatteessa kuka tahansa, tai dataa kerätään, luokitellaan, lajitellaan, tuotetaan ja jalostetaan kollektiivisesti.&lt;/p&gt;
 
 &lt;p&gt;Wikipedia ja OpenStreetmap ovat kenties tunnetuimpia esimerkkejä crowdsourcing-mallin toiminnasta, mutta jostain syystä usein unohdetaan, että kansalaiset ja yritykset voivat tuottaa dataa myös julkishallinnon hyödynnettäväksi. Kotimainen esimerkki hallinnon hyödyntämästä crowdsourcing’ista on Helsingin kaupungin pilottipalvelu Fillarikanava, jossa pyöräilijät merkitsevät kartalle arkisia pyöräilyoloihin liittyviä havaintojaan, jotka tallentuvat paikkatiedoksi, joka voidaan huomioida alueita koskevissa suunnittelu- ja parannushankkeissa. Hieman erilainen sovellus on Britanniassa toteutettu opetusaineistojen yhteistuotanto- ja jakelualusta &lt;em&gt;Times Educational Supplement&lt;/em&gt; (TES). Sen on arvioitu säästävän opettajien työaikaa miljardin punnan edestä kahdessa vuodessa (UK 2009), kun opettajat ovat alkaneet palvelun kautta jakaa aineistoja keskenään sen sijaan, että kaikki tuottaisivat oman aineistonsa saman opetussuunnitelman mukaisten sisältöjen opettamiseen.&lt;/p&gt;
-
-&lt;p&gt;[Kuva 1.1: Yhteisöllisesti ja vapaaehtoisvoimin tuotettu Open Street Map on mm. Tampereen keskustan jalankulkuväylien ja puistojen, sekä nimistön osalta huomattavasti Google-karttaa tarkempi. Suomen osalta yhteisö on piirtänyt ja GPS-paikantimilla mitannut vapaaehtoisesti kartan alusta asti. Open Street Map -yhteisölle voidaan tehdä myös paikkatietolahjoituksia, kuten on tapahtunut Yhdysvalloissa.]&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2 id=&quot;12_kyttjlhtinen_innovointi&quot;&gt;1.2 Käyttäjälähtöinen innovointi&lt;/h2&gt;
 
@@ -666,8 +662,6 @@
 &lt;li&gt;Neljäs kierros: organisaation datavarantoja käytetään ja jalostetaan aktiivisesti ekosysteemissä&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;[Kuva 2.1 Datan avaamisessa voidaan edetä vaiheittain vuorovaikutuksessa sen hyödyntäjien kanssa.]&lt;/p&gt;
 
 &lt;h3 id=&quot;231_datasta_ilmoittaminen&quot;&gt;2.3.1 Datasta ilmoittaminen&lt;/h3&gt;
 
