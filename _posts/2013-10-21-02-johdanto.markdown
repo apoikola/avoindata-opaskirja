@@ -1,4 +1,5 @@
 ---
+permalink: johdanto
 layout: post
 
 title: Johdanto
