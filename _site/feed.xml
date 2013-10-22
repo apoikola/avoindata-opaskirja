@@ -6,8 +6,8 @@
     <atom:link href="http://incorporated.sendtoinc.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 21 Oct 2013 23:43:10 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2013 23:43:10 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2013 04:40:15 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2013 04:40:15 +0000</lastBuildDate>
 
     
     
@@ -17,7 +17,8 @@
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://incorporated.sendtoinc.com/02-johdanto</guid>
-      <description>&lt;p&gt;Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus.&lt;/p&gt;
+      <description>
+&lt;p&gt;Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme laadukkuus.&lt;/p&gt;
 
 &lt;p&gt;Julkinen hallinto omistaa ja hallinnoi laajoja, rahallisesti ja yhteiskunnallisesti arvokkaita informaatiovarantoja. Suurin osa näistä raakamuotoisena datana olevista varannoista on tällä hetkellä vain niiden käytössä, joilla on pääsy aineistoihin. Datan jatkojalostukseen päätyy arvioiden mukaan vain pieni osa käytettävistä olevasta. Internetin kehitys niin yhteisöllisiltä kuin teknologisilta ominaisuuksiltaan antaa uusia mahdollisuuksia avoimeen datapolitiikkaan. Kansallisten tietovarantojen maksuttoman käytön salliminen ja sitä tukeva toimintakulttuurin muutos ovat merkittävimpiä asioita, joita suomalaisen tietoyhteiskunnan kehittämiseksi voitaisiin tällä hetkellä toteuttaa. Tämä toisi uusia mahdollisuuksia vastata ajankohtaisiin haasteisiin. Maksuton julkinen data olisi myös suomalaisille instituutioille mahdollisuus uudistua ja oppia verkostoaikakauden yhteistoimintataitoja sekä suunnata suomalaisen yhteiskunnan kehittämistä uudenlaiseen yhdessä tekemisen kulttuuriin.&lt;/p&gt;
 
@@ -29,7 +30,7 @@
 
 &lt;p&gt;Enää ei nähdäksemme ole tarvetta periaatekeskusteluun avoimesta datasta, vaan erityistä painetta kohdistuu jo tietotaidon lisäämiseen ja käytäntöjen luomiseen orientoivalla opastuksella.&lt;/p&gt;
 
-&lt;h2 id=&#39;avoin_data_monialaisen_hydyn_lhteen&#39;&gt;Avoin data monialaisen hyödyn lähteenä&lt;/h2&gt;
+&lt;h2 id=&quot;avoin_data_monialaisen_hydyn_lhteen&quot;&gt;Avoin data monialaisen hyödyn lähteenä&lt;/h2&gt;
 
 &lt;p&gt;Suomessa on hallinnon avoimeen ja maksuttomaan dataan liittyvässä keskustelussa tähän asti viitattu ensisijaisesti liike-elämän hyötyihin ja kansalliseen kilpailukykyyn. Markkinatalouden kärkimaassa Yhdysvalloissa julkista dataa koskeva lainsäädäntö on jo pitkään perustunut ajatukselle, että verovaroin tuotetun datan tulee olla maksutta kaikkien saatavilla. Tämä lähtökohta on johtanut merkittävään julkisen datan uudelleenkäyttöön ja taloudelliseen toimeliaisuuteen. Suomessa, kuten muuallakin Euroopassa, lähtökohta on ollut varsin erilainen ja suhtautuminen datavarantoihin perinteisesti protektionistista. Edellytykset uudenlaiselle ajattelulle kasvavat kuitenkin jatkuvasti, kun avoimet toimintamallit kehittyvä ainakin osaksi internetin ansiosta.&lt;/p&gt;
 
@@ -39,7 +40,7 @@
 
 &lt;p&gt;Avoin data ja datan koneluettavuus virtaviivaistavat prosesseja, mutta tätä mahdollisuutta ei ole vielä käytetty kovinkaan laajasti. Liikenne- ja viestintäministerin asettama selvitysmies Paul Paukku kritisoi hallintoa kyvyttömyydestä yhteistyöhön liike-elämän kanssa: “Not invented here- syndrooma: valtio rakentaa tyhjästä sitä mitä markkina jo käyttää” (2009). Avoin informaationvälitys ja läpinäkyvyys mahdollistaisivat laajemman näkemyksen, jolla voidaan edistää yhteistyötä. Julkisen datan maksuttomalla jakamisella voidaan välttää myös tahatonta osaoptimointia eli sitä, että virastot säästääkseen omista kustannuksista eivät esimerkiksi osta palveluna väestötietojärjestelmän tarjonnasta, vaan ylläpitävät itse tietokantaa omista asiakkaistaan.&lt;/p&gt;
 
-&lt;h2 id=&#39;oppaan_sislt&#39;&gt;Oppaan sisältö&lt;/h2&gt;
+&lt;h2 id=&quot;oppaan_sislt&quot;&gt;Oppaan sisältö&lt;/h2&gt;
 
 &lt;p&gt;Toistaiseksi maassamme ei ole ollut avoimen julkisen datan hyödyntämiseen opastusta tai käytäntöjä. Tämä opas pyrkii poistamaan tätä puutetta. Se on käytännönläheinen johdatus ensisijaisesti julkishallinnon työntekijöille, jotka haluavat edistää datan avaamista omassa organisaatiossaan, mutta on käyttökelpoinen myös kaikille muille aihepiiristä kiinnostuneille.&lt;/p&gt;
 
@@ -61,7 +62,7 @@
 
 &lt;p&gt;&lt;strong&gt;Luku 7:&lt;/strong&gt; &lt;em&gt;Suosituksia Suomelle&lt;/em&gt; esittää laajempia toimenpidekokonaisuuksia, joilla voitaisiin tukea kansallista avoimen datan infrastruktuurin luomista ja käytäntöjä. Kehitys lähtee yksilöistä ja organisaatioista, mutta kaikkea yksittäiset toimijat tai organisaatiot eivät voi järkevästi edistää, vaan tarvittaisiin kansallisen tason linjanvetoja. Oppaan loppuun olemme koonneet hyväksihavaittuja liitteitä ja työkaluja.&lt;/p&gt;
 
-&lt;h2 id=&#39;data_ksitteen&#39;&gt;Data käsitteenä&lt;/h2&gt;
+&lt;h2 id=&quot;data_ksitteen&quot;&gt;Data käsitteenä&lt;/h2&gt;
 
 &lt;p&gt;Suomen kielessä termien data, informaatio (information) ja tieto (knowledge) arkikäytössä ei ole useinkaan selvää eroa. Kotimaisessa puheessa tiedolla viitataan yleensä ja tarkemmin erittelemättä niin dataan, informaatioon kuin tietoonkin. Toisaalta tiedolla on suomenkielessä - muista kielistä poiketen - myös arvollinen merkitys. Esimerkiksi ’tietoyhteiskunta’ sisältää enemmän sivistykseen ja kulttuuriin liittyviä latauksia kuin muissa kielissä neutraalimpi ’informaatioyhteiskunta’. Ihminen voi olla tiedoton monessa mielessä. Datan informaation ja tiedon ohella asiaan liittyviä käsitteitä ovat sisältö ja teos, joihin liittyvät muun muassa tekijänoikeudet.&lt;/p&gt;
 
@@ -85,7 +86,7 @@
 
 &lt;p&gt;Datan ymmärtäminen raaka-aineeksi liittyy läheisesti seuraavaksi käsiteltävään ekosysteemi-käsitteeseen.&lt;/p&gt;
 
-&lt;h2 id=&#39;data_ekosysteemin_osana&#39;&gt;Data ekosysteemin osana&lt;/h2&gt;
+&lt;h2 id=&quot;data_ekosysteemin_osana&quot;&gt;Data ekosysteemin osana&lt;/h2&gt;
 
 &lt;p&gt;Hallinto tuottaa jatkuvasti suuren määrän dataa, joka voisi olla tehokkaamminkin käytössä huomioiden tietovarantojemme nykyinen laadukkuus. Asiaa lähestytään hahmottelemalla suomalaista avoimen datan ekosysteemiä. Aikaisemmissa keskusteluissa kansalaisia, yksityistä sektoria tai muita organisaatioita ei ole pidetty osapuolena tietovarantojen kehittämisessä, vaan ne on nähty ainoastaan tiedon loppukäyttäjinä. Hallinnon ohella myös kansalaiset, liike-elämä, järjestöt ja tutkimuslaitokset ovat merkittäviä toimijoita avointa dataa käsiteltäessä. Yksityisten toimijoiden tietovarannot eivät ole julkisia, mutta se ei estä näitä halutettassaan tuottamasta avointa dataa. Oppaassa esittämämme toimintatavat, työkalut, periaatteet ja suositukset ovat hyvin sovellettavissa kaikissa niissä organisaatioissa, kuten yrityksissä ja järjestöissä, jotka haluavat lisätä omien datavarantojen avointa käyttöä.&lt;/p&gt;
 
@@ -99,7 +100,7 @@
 
 &lt;p&gt;Ekosysteemillä korostamme teknisen järjestelmän ja institutionalisoitujen organisaatioiden ohella myös elävää, dynaamisesti muuttuvaa vuorovaikutusverkostoa, jonka osana hallinnon organisaatiot ja yksittäiset ihmisetkin ovat. Infrastruktuuri-ajattelu on oppaassa taustalla ja siihen tartutaan vahvemmin luvussa 6: Avoimen datan infrastruktuuri, jossa käsitellään organisaatiorajat ylittäviä avoimen datan hankkeita, kuten kansallinen datakatalogi.&lt;/p&gt;
 
-&lt;h2 id=&#39;tahtotila_julkinen_data_avoimesti_saataville_ja_hydynnettvksi&#39;&gt;&lt;strong&gt;Tahtotila:&lt;/strong&gt; Julkinen data avoimesti saataville ja hyödynnettäväksi&lt;/h2&gt;
+&lt;h2 id=&quot;tahtotila_julkinen_data_avoimesti_saataville_ja_hydynnettvksi&quot;&gt;&lt;strong&gt;Tahtotila:&lt;/strong&gt; Julkinen data avoimesti saataville ja hyödynnettäväksi&lt;/h2&gt;
 
 &lt;p&gt;Datan avaamiseen voi suhtautua hyvin käytännönläheisesti. Oppaan tausta-aineiston sekä haastattelujen inspiroimina haluamme kuitenkin tuoda esiin laajemman näkökulman datan avaamiseen ja sen mahdollisuuksiin Suomen kannalta. Oheista visiota konkretisoivat oppaan lopuksi kootut toimenpide-ehdotukset. Vision tarkoituksena on edistää mielikuvaa siitä, mihin kaikkeen avoimen datan ajattelu voisi johtaa Suomessa. Visiomme on tarkoitettu kannustamaan lukijaa avoimen datan edistämiseen yleisellä tasolla, jotta aikanaan voitaisiin myös poliittisten linjausten avulla luoda toimenpideohjelmaa tässä esitettyjen ja muiden tavoitteiden saavuttamiseksi.&lt;/p&gt;
 
@@ -213,13 +214,14 @@
 &lt;p&gt;Hello everybody out there using minix –&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I’d like any feedback on things people like/dislike in minix, as my OS resembles it somewhat&amp;#8230;&lt;/p&gt;
+&lt;p&gt;I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I’d like any feedback on things people like/dislike in minix, as my OS resembles it somewhat&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&amp;#8230;. Any suggestions are welcome, but I won’t promise I’ll implement them :-)&lt;/p&gt;
+&lt;p&gt;…. Any suggestions are welcome, but I won’t promise I’ll implement them :-)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Linus (torvalds@kruuna.helsinki.fi &lt;a href=&#39;mailto:torvalds@kruuna.helsinki.fi&#39;&gt;&amp;#116;&amp;#111;&amp;#114;&amp;#118;&amp;#097;&amp;#108;&amp;#100;&amp;#115;&amp;#064;&amp;#107;&amp;#114;&amp;#117;&amp;#117;&amp;#110;&amp;#097;&amp;#046;&amp;#104;&amp;#101;&amp;#108;&amp;#115;&amp;#105;&amp;#110;&amp;#107;&amp;#105;&amp;#046;&amp;#102;&amp;#105;&lt;/a&gt;)&lt;/p&gt;</description>
+&lt;p&gt;Linus (torvalds@kruuna.helsinki.fi &lt;a href=&quot;mailto:&amp;#116;&amp;#111;&amp;#114;&amp;#118;&amp;#097;&amp;#108;&amp;#100;&amp;#115;&amp;#064;&amp;#107;&amp;#114;&amp;#117;&amp;#117;&amp;#110;&amp;#097;&amp;#046;&amp;#104;&amp;#101;&amp;#108;&amp;#115;&amp;#105;&amp;#110;&amp;#107;&amp;#105;&amp;#046;&amp;#102;&amp;#105;&quot;&gt;&amp;#116;&amp;#111;&amp;#114;&amp;#118;&amp;#097;&amp;#108;&amp;#100;&amp;#115;&amp;#064;&amp;#107;&amp;#114;&amp;#117;&amp;#117;&amp;#110;&amp;#097;&amp;#046;&amp;#104;&amp;#101;&amp;#108;&amp;#115;&amp;#105;&amp;#110;&amp;#107;&amp;#105;&amp;#046;&amp;#102;&amp;#105;&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     
@@ -230,7 +232,8 @@
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://incorporated.sendtoinc.com/2013/10/21/01-elava-palvelu</guid>
-      <description>&lt;p&gt;Datan avaaminen muiden käyttöön on paljon enemmän kuin teknologian soveltamista ja uusimista. Toimintaa suunniteltaessa on tarpeen huomioida alusta lähtien käyttäjät, toimintatavat ja oppimismahdollisuudet. Tässä luvussa käsittelemme avoimen datan teemaa ihmisten näkökulmasta. Tarkastelussa on, miten potentiaalisia avoimen datan käyttäjäryhmiä kohdataan, mitä on käyttäjälähtöinen innovointi (TEM 2010) ja mitä konkreettisia käyttökohteita avoimella datalla on. Tuomme keskusteluun myös elävä palvelu -käsitteen, jolla painotamme palvelun toiminnallisuutta.&lt;/p&gt;
+      <description>
+&lt;p&gt;Datan avaaminen muiden käyttöön on paljon enemmän kuin teknologian soveltamista ja uusimista. Toimintaa suunniteltaessa on tarpeen huomioida alusta lähtien käyttäjät, toimintatavat ja oppimismahdollisuudet. Tässä luvussa käsittelemme avoimen datan teemaa ihmisten näkökulmasta. Tarkastelussa on, miten potentiaalisia avoimen datan käyttäjäryhmiä kohdataan, mitä on käyttäjälähtöinen innovointi (TEM 2010) ja mitä konkreettisia käyttökohteita avoimella datalla on. Tuomme keskusteluun myös elävä palvelu -käsitteen, jolla painotamme palvelun toiminnallisuutta.&lt;/p&gt;
 
 &lt;p&gt;Olemme jo johdantoluvussa esittäneet perusteluja datan avaamisen puolesta. Tavoitteena voi esimerkiksi olla rajallisten resurssien mahdollisimman tehokas käyttö, paremmin toimiva kansalaisyhteiskunta tai talouden kasvu. Datan avaaminen ei kuitenkaan automaattisesti johda näiden tavoitteiden toteutumiseen, vaan tavoitellut hyödyt saavutetaan vasta, kun avattua dataa myös käytetään.&lt;/p&gt;
 
@@ -241,7 +244,7 @@
 &lt;p&gt;&lt;strong&gt;Case: Apps for Democracy (Washington DC.)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke.&amp;#8221; Vivek Kundra, Washington D.C:n entinen tietohallintojohtaja, nykyinen Yhdysvaltain liittovaltion tietohallintojohtaja&lt;/p&gt;
+&lt;p&gt;Apps for Democracy kilpailu tuotti enemmän säästöjä Washington D.C:n hallinnolle, kuin mikään muu hanke.” Vivek Kundra, Washington D.C:n entinen tietohallintojohtaja, nykyinen Yhdysvaltain liittovaltion tietohallintojohtaja&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -256,33 +259,33 @@
 &lt;p&gt;(Ks. lisää 1.4.2 Innovaatiokilpailu kannustimena toimintaan)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;11_mihin_avointa_dataa_voidaan_kytt&#39;&gt;1.1 Mihin avointa dataa voidaan käyttää?&lt;/h2&gt;
+&lt;h2 id=&quot;11_mihin_avointa_dataa_voidaan_kytt&quot;&gt;1.1 Mihin avointa dataa voidaan käyttää?&lt;/h2&gt;
 
 &lt;p&gt;Helposti miellettävien internetin kautta toimivien sovellusten ohella avoimen datan käyttökohteita on monia muitakin. Tässä jaottelemme käyttökohteet karkeasti neljään kategoriaan: &lt;strong&gt;1) yhdistelmäpalvelut&lt;/strong&gt;, &lt;strong&gt;2) koulutus, tutkimus ja tuotekehitys&lt;/strong&gt;, &lt;strong&gt;3) prosessien automatisointi&lt;/strong&gt; ja &lt;strong&gt;4) käyttäjien yhteistoiminnalliset tuotannot&lt;/strong&gt;. Lista ei ole kattava, mutta sen avulla voi alkaa miettiä oman organisaation luonnetta ja sen tuottaman datan eri mahdollisuuksia.&lt;/p&gt;
 
-&lt;h3 id=&#39;yhdistelmpalvelut&#39;&gt;Yhdistelmäpalvelut&lt;/h3&gt;
+&lt;h3 id=&quot;yhdistelmpalvelut&quot;&gt;Yhdistelmäpalvelut&lt;/h3&gt;
 
 &lt;p&gt;Oppaan kirjoittamisen aikaan arkea helpottavat verkkosovellukset olivat selkeästi yleisin tapa hyödyntää avointa dataa. Ne visualisoivat, suodattavat tai kokoavat informaatiota eri lähteistä ja vastaavat loppukäyttäjien tiedontarpeisiin. Mashup on yleisilmaisu julkisille, liike-elämän tai kansalaisten perustamille avoimen datan sovelluksille, jotka koostavat eri lähteistä saatavilla olevaa dataa niillä periaatteilla, joita palvelun perustajat haluavat. Mashup-termille ei toistaiseksi ole vielä vakiintunutta suomennosta, mutta kutsumme sitä Tekniikan sanastokeskuksen suosituksen mukaisesti yhdistelmäpalveluksi.&lt;/p&gt;
 
-&lt;p&gt;Vuonna 2005 amerikkalaistoimittaja Adrian Holovaty kyllästyi soittamaan joka aamu poliisilaitokselle kysyäkseen rikosraporttia. Kun hän havaitsi, että raportit ovat saatavilla automaattisesti, hän yhdisti ne tuolloin vasta julkaistuun Google Maps -sovellukseen. Tuloksena oli ChicagoCrimes-palvelu, josta näki lähes realiaikaisesti, millaisia rikoksia on tapahtunut. Suomessa vastaavan sovelluksen teki Tilannehuone.fi, joka yhdisti Hälytyskeskuksen tilannetiedotuksen samaiseen Google Maps&amp;#8217;iin. Yksinkertainen ja kiinnostava Tilannehuone.fi kiinnostaa, sillä siinä vierailee viikoittain lähes 300 000 kävijää. Yhdistelmäpalvelut sinänsä voivat vastata monenlaisiin tarpeisiin, kuten arjen helpottamiseen, politiikan läpinäkyvyyden lisäämiseen tai, kuten Adrian Holovatyn tapauksessa, olla journalistisen työn väline.&lt;/p&gt;
+&lt;p&gt;Vuonna 2005 amerikkalaistoimittaja Adrian Holovaty kyllästyi soittamaan joka aamu poliisilaitokselle kysyäkseen rikosraporttia. Kun hän havaitsi, että raportit ovat saatavilla automaattisesti, hän yhdisti ne tuolloin vasta julkaistuun Google Maps -sovellukseen. Tuloksena oli ChicagoCrimes-palvelu, josta näki lähes realiaikaisesti, millaisia rikoksia on tapahtunut. Suomessa vastaavan sovelluksen teki Tilannehuone.fi, joka yhdisti Hälytyskeskuksen tilannetiedotuksen samaiseen Google Maps’iin. Yksinkertainen ja kiinnostava Tilannehuone.fi kiinnostaa, sillä siinä vierailee viikoittain lähes 300 000 kävijää. Yhdistelmäpalvelut sinänsä voivat vastata monenlaisiin tarpeisiin, kuten arjen helpottamiseen, politiikan läpinäkyvyyden lisäämiseen tai, kuten Adrian Holovatyn tapauksessa, olla journalistisen työn väline.&lt;/p&gt;
 
-&lt;h3 id=&#39;koulutus_tutkimus_ja_tuotekehitys&#39;&gt;Koulutus, tutkimus ja tuotekehitys&lt;/h3&gt;
+&lt;h3 id=&quot;koulutus_tutkimus_ja_tuotekehitys&quot;&gt;Koulutus, tutkimus ja tuotekehitys&lt;/h3&gt;
 
 &lt;p&gt;Tutkimusorganisaatioissa datan helppo saatavuus tukee laadukkaan tutkimuksen syntymistä. Koulutuksessa dataa voidaan hyödyntää asioiden havainnollistamiseen. Loistava esimerkki visualisaation voimasta on Tukholman Karoliinisen Instituutin professorin Hans Roslingin johdolla kehitetty GapMinder-palvelu. Ohjelmiston esiaste syntyi tarpeesta visualisoida opiskelijoille, kuinka 1960-luvulla syntynyt käsitys maailman kahtiajakautuneisuudesta perhekoon ja eliniän odotteen perusteella ei enää pidä paikkaansa.&lt;/p&gt;
 
 &lt;p&gt;Kuluttajille suunnattuja yhdistelmäpalveluita suuremmassa mittakaavassa tiedon louhintaa, yhdistelyä ja visualisointia voidaan tehdä tutkimus- ja tuotekehitysprojekteissa. Tällöin tavoitteena ei ole niinkään yksittäinen arkea helpottava tai hallinnon läpinäkyvyyttä lisäävä yhdistelmäpalvelu, vaan kokonaan uuden tiedon synnyttäminen tai jonkin toiminnan optimointi laajaan data-aineistoon perustuen. Esimerkiksi liikennemittausten, julkisen liikenteen käyttötilastojen ja erilaisten alueita koskevien tilastojen perusteella voidaan tehdä kaupungin liikennejärjestelmää koskevia optimointimalleja tai vaikkapa yksityisen toimijan toimesta optimoida yrityksen palvelupisteverkostoa. Nykyisin erilaiset organisaatiot tekevät tämäntyyppisiä optimointeja ja simulaatioita nojautuen omiin datavarantoihinsa, mutta avoin data mahdollistaisi myös lisälähteiden ja muiden organisaatioiden datavarantojen hyödyntämisen.&lt;/p&gt;
 
-&lt;h3 id=&#39;automaatio&#39;&gt;Automaatio&lt;/h3&gt;
+&lt;h3 id=&quot;automaatio&quot;&gt;Automaatio&lt;/h3&gt;
 
 &lt;p&gt;Dataa voidaan hyödyntää myös automaatiossa, jossa datan avulla ohjataan tai helpotetaan jotakin prosessia. Esimerkiksi erilaisten nettipalveluiden yhteydessä osoitelomakkeiden täydentämistä ja tarkistamista voidaan automatisoida postinumero- ja osoitedatan avulla. Voidaan ajatella myös lämmitys- ja ilmastointijärjestelmiä, jotka hyödyntäisivät säädataa, sekä sähköverkon kapasiteetista kertovaa dataa ja automaattisesti ohjaisivat itseään siten, että sähkön kulutus laskisi ja etenkin kulutushuiput tasaantuisivat (Smart Grid). Tämä on vielä laajasti toteutumatta, mutta tämänkin suuntainen kehitys voisi nopeutua, mikäli lisädataa olisi saatavilla.&lt;/p&gt;
 
-&lt;h3 id=&#39;kyttjien_yhteistoiminnalliset_tuotannot&#39;&gt;Käyttäjien yhteistoiminnalliset tuotannot&lt;/h3&gt;
+&lt;h3 id=&quot;kyttjien_yhteistoiminnalliset_tuotannot&quot;&gt;Käyttäjien yhteistoiminnalliset tuotannot&lt;/h3&gt;
 
-&lt;p&gt;Oma lukunsa avoimen datan hyödyissä on aineiston laadun parantaminen ja kerääminen kollektiivisesti sekä päällekkäisen työn vähentäminen yhteiskäyttöisen datavarannon myötä. Jeff Howe (2006) kehitti termin crowdsourcing kuvaamaan internetin mahdollistamia uusia tapoja organisoida työtä. Termi tarkoittaa pelkistettynä perinteistä työn ulkoistamista (outsourcing) internetiin nimeämättömälle ihmisjoukolle (crowd). Termille ei ole vielä vakiintunutta suomennosta, on puhuttu esimerkiksi talkoistamisesta ja joukkouttamisesta. Crowdsourcing&amp;#8217;issa on monia eri muotoja. Tyypillisesti joko etsitään parasta mahdollista ratkaisua, jota voi ehdottaa periaatteessa kuka tahansa, tai dataa kerätään, luokitellaan, lajitellaan, tuotetaan ja jalostetaan kollektiivisesti.&lt;/p&gt;
+&lt;p&gt;Oma lukunsa avoimen datan hyödyissä on aineiston laadun parantaminen ja kerääminen kollektiivisesti sekä päällekkäisen työn vähentäminen yhteiskäyttöisen datavarannon myötä. Jeff Howe (2006) kehitti termin crowdsourcing kuvaamaan internetin mahdollistamia uusia tapoja organisoida työtä. Termi tarkoittaa pelkistettynä perinteistä työn ulkoistamista (outsourcing) internetiin nimeämättömälle ihmisjoukolle (crowd). Termille ei ole vielä vakiintunutta suomennosta, on puhuttu esimerkiksi talkoistamisesta ja joukkouttamisesta. Crowdsourcing’issa on monia eri muotoja. Tyypillisesti joko etsitään parasta mahdollista ratkaisua, jota voi ehdottaa periaatteessa kuka tahansa, tai dataa kerätään, luokitellaan, lajitellaan, tuotetaan ja jalostetaan kollektiivisesti.&lt;/p&gt;
 
-&lt;p&gt;Wikipedia ja OpenStreetmap ovat kenties tunnetuimpia esimerkkejä crowdsourcing-mallin toiminnasta, mutta jostain syystä usein unohdetaan, että kansalaiset ja yritykset voivat tuottaa dataa myös julkishallinnon hyödynnettäväksi. Kotimainen esimerkki hallinnon hyödyntämästä crowdsourcing&amp;#8217;ista on Helsingin kaupungin pilottipalvelu Fillarikanava, jossa pyöräilijät merkitsevät kartalle arkisia pyöräilyoloihin liittyviä havaintojaan, jotka tallentuvat paikkatiedoksi, joka voidaan huomioida alueita koskevissa suunnittelu- ja parannushankkeissa. Hieman erilainen sovellus on Britanniassa toteutettu opetusaineistojen yhteistuotanto- ja jakelualusta &lt;em&gt;Times Educational Supplement&lt;/em&gt; (TES). Sen on arvioitu säästävän opettajien työaikaa miljardin punnan edestä kahdessa vuodessa (UK 2009), kun opettajat ovat alkaneet palvelun kautta jakaa aineistoja keskenään sen sijaan, että kaikki tuottaisivat oman aineistonsa saman opetussuunnitelman mukaisten sisältöjen opettamiseen.&lt;/p&gt;
+&lt;p&gt;Wikipedia ja OpenStreetmap ovat kenties tunnetuimpia esimerkkejä crowdsourcing-mallin toiminnasta, mutta jostain syystä usein unohdetaan, että kansalaiset ja yritykset voivat tuottaa dataa myös julkishallinnon hyödynnettäväksi. Kotimainen esimerkki hallinnon hyödyntämästä crowdsourcing’ista on Helsingin kaupungin pilottipalvelu Fillarikanava, jossa pyöräilijät merkitsevät kartalle arkisia pyöräilyoloihin liittyviä havaintojaan, jotka tallentuvat paikkatiedoksi, joka voidaan huomioida alueita koskevissa suunnittelu- ja parannushankkeissa. Hieman erilainen sovellus on Britanniassa toteutettu opetusaineistojen yhteistuotanto- ja jakelualusta &lt;em&gt;Times Educational Supplement&lt;/em&gt; (TES). Sen on arvioitu säästävän opettajien työaikaa miljardin punnan edestä kahdessa vuodessa (UK 2009), kun opettajat ovat alkaneet palvelun kautta jakaa aineistoja keskenään sen sijaan, että kaikki tuottaisivat oman aineistonsa saman opetussuunnitelman mukaisten sisältöjen opettamiseen.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;12_kyttjlhtinen_innovointi&#39;&gt;1.2 Käyttäjälähtöinen innovointi&lt;/h2&gt;
+&lt;h2 id=&quot;12_kyttjlhtinen_innovointi&quot;&gt;1.2 Käyttäjälähtöinen innovointi&lt;/h2&gt;
 
 &lt;p&gt;Palveluiden elinkaari alkaa yleensä tarpeiden tunnistamisesta, mitä seuraa ideointi, testaus ja käyttökokemusten ja palautteen perusteella tapahtuva iteratiivinen kehitystyö. Käyttäjälähtöinen tuotekehitys ja innovointi ovat malleja, joissa palvelun tuottaja ottaa loppukäyttäjät mahdollisimman varhaisessa vaiheessa mukaan ohjaamaan palvelun ideointia ja kehitystä.&lt;/p&gt;
 
@@ -296,7 +299,7 @@
 
 &lt;p&gt;Käyttäjälähtöistä tuotekehitystä äärimmillään on, kun palvelun kehittäjät ovat itse myös loppukäyttäjiä, esimerkiksi YouTuben sanotaan syntyneen sen perustajien tarpeesta jakaa netissä videotiedostoja (Cloud 2006). Samoin ensimmäinen wiki-sovellus syntyi, kun Ward Cunningham vuonna 1995 loi WikiWikiWeb-alustan, jotta ohjelmoijat voisivat helposti jakaa ohjelmakoodiin liittyvää tietoa keskenään. Julkishallinnon avoin data mahdollistaa sen, että ihmiset voivat itse omia tarpeitaan varten laajentaa julkisia palveluita. Esimerkiksi julkisilla liikennevälineillä keskustaan suuntautuvien työmatkojen matka-aikoja ja asuntojen hintoja kartalla visualisoiva Mapumental-palvelu syntyi asunnon ostoa suunnittelevien ihmisten tarpeista. Vastaavasti Hilmappi-palvelun tuottanut suomalainen Gemilo haistoi markkinaraon yritysten tarpeessa seurata helposti julkisia tarjouskilpailuja alueellisesti.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;13_kettert_menetelmt_datan_avaamisessa&#39;&gt;1.3 Ketterät menetelmät datan avaamisessa&lt;/h2&gt;
+&lt;h2 id=&quot;13_kettert_menetelmt_datan_avaamisessa&quot;&gt;1.3 Ketterät menetelmät datan avaamisessa&lt;/h2&gt;
 
 &lt;p&gt;Nyt digitaalisuuden ja globalisaation myötä organisaatioiden toimintaympäristö ja sitä kuvaava informaatiota muuttuu nopeammin kuin kukaan tai mikään organisaatio pystyy käsittelemään. Murros kaipaa orientoitumiseen uudenlaista lähestymistapaa – ketteryyttä. Toimintaympäristön jatkuvasti muuttuessa ei välttämättä ole järkevää suunnitella yksityiskohtia kovin kauas tulevaisuuteen. Mitä kauemmas tulevaisuuteen suunnitellaan, sitä hatarampiin oletuksiin suunnitelma perustuu.&lt;/p&gt;
 
@@ -306,7 +309,7 @@
 
 &lt;p&gt;Vielä on liian varhaista arvioida Suomen tai maailman mittakaavassa, mihin julkishallinnon datavarantojen avaaminen johtaa. Myöskin tämä opas esimerkkeineen ja toimintaohjeineen on tuomittu vanhenemaan nopeasti. Ketterät menetelmät soveltuvatkin siksi hyvin lähtökohdaksi julkishallinnon organisaatioiden datan avaamiseen. Ketteryyteen viitataan seuraavissa luvuissa, joissa esitellään datavarantojen inventaariota ja julkaisun teknologisia ratkaisuja. Ideana on, että liikkeelle kannattaa lähteä pienestä. Ensimmäiset datan avaamisen myöstä syntyneet elävät palvelut viitoittavat tietä jatkoon.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;14_organisaatio_mahdollistajana&#39;&gt;1.4 Organisaatio mahdollistajana&lt;/h2&gt;
+&lt;h2 id=&quot;14_organisaatio_mahdollistajana&quot;&gt;1.4 Organisaatio mahdollistajana&lt;/h2&gt;
 
 &lt;p&gt;Toimintaympäristön muuttuessa myös organisaatioiden roolit muuttuvat. Tämä näkyy jo nyt esimerkiksi sisältöteollisuudessa internetin kehityksen myötä. Äänitemyynnin mullisti tietokonevalmistaja Apple iTunes-verkkokaupallaan eikä musiikkiteollisuus. Google on syönyt osan kaupallisten tietokoneohjelmistojen markkinoista maksuttomilla palveluillaan. Positiivisesti katsoen muutos mahdollistaa esimerkiksi hallinnolle uudentyyppistä toimintaa, joka olisi ollut ennen internetiä liian kallista. Uusia rooleja ovat esimerkiksi seuraavat:&lt;/p&gt;
 
@@ -326,11 +329,11 @@
 
 &lt;p&gt;Vuoden 2008 aikana Yleisradion hallitus täydensi yleistä yhtiöstrategiaa mahdollistajastrategialla (2008). Mahdollistajastrategian keskeinen viesti on, ettei organisaatio enää vain toteuta omaa toimintaansa vaan osaltaan tarjoaa myös muille mahdollisuuksia aktiivisuuteen.&lt;/p&gt;
 
-&lt;p&gt;Tim O&amp;#8217;Reilly (2010) kuvaa hallinnon muuttuvaa paradigmaa verkkoteknologioiden ja avoimen datan maailmassa termillä &lt;em&gt;&amp;#8220;government as a platform&amp;#8221;&lt;/em&gt; – hallinto alustana. Ideana on, että hallinnon tulisi keskittyä infrastruktuurin tekemiseen ja siten mahdollistaa kestävän yksityisten toimijoiden ekosysteemin kehittymisen. Toimintamallina tämä ei ole hallinnossa mitenkään uusi, vaan esimerkiksi tieverkoston tekeminen on mielletty luontaiseksi hallinnon organisoimaksi toimenpiteeksi (sen sijaan, että hallinto organisoisi ihmisten ja tavaroiden kuljetuksia), jonka myötä monenlainen yksityinen teihin ja liikkumiseen liittyvä toimeliaisuus on mahdollistunut. Avoimen datan kohdalla tämä tarkoittaa, että pienentämällä hallinnon roolia informaation välittämisessä informaatio saattaisi jopa välittyä paremmin. Nykyisin monet hallinnon organisaatiot pitävät informaation välittämistä omien verkkosivujen kautta tärkeämpänä kuin teknistä avoimen datan infrastruktuuria, joka mahdollistaisi, että joku muu voisi käyttää dataa.&lt;/p&gt;
+&lt;p&gt;Tim O’Reilly (2010) kuvaa hallinnon muuttuvaa paradigmaa verkkoteknologioiden ja avoimen datan maailmassa termillä &lt;em&gt;“government as a platform”&lt;/em&gt; – hallinto alustana. Ideana on, että hallinnon tulisi keskittyä infrastruktuurin tekemiseen ja siten mahdollistaa kestävän yksityisten toimijoiden ekosysteemin kehittymisen. Toimintamallina tämä ei ole hallinnossa mitenkään uusi, vaan esimerkiksi tieverkoston tekeminen on mielletty luontaiseksi hallinnon organisoimaksi toimenpiteeksi (sen sijaan, että hallinto organisoisi ihmisten ja tavaroiden kuljetuksia), jonka myötä monenlainen yksityinen teihin ja liikkumiseen liittyvä toimeliaisuus on mahdollistunut. Avoimen datan kohdalla tämä tarkoittaa, että pienentämällä hallinnon roolia informaation välittämisessä informaatio saattaisi jopa välittyä paremmin. Nykyisin monet hallinnon organisaatiot pitävät informaation välittämistä omien verkkosivujen kautta tärkeämpänä kuin teknistä avoimen datan infrastruktuuria, joka mahdollistaisi, että joku muu voisi käyttää dataa.&lt;/p&gt;
 
-&lt;p&gt;Tim O&amp;#8217;Reillyn ajatuskulkua Suomen oloihin sovittaen puhumme hallinnosta mahdollistajana, joka on hieman enemmän kuin vain pelkkä alusta. Mahdollistajuus on aktiivista toimintaa, kun alusta antaa mielikuvan passiivisesta. Avoimen datan suhteen sanomme, että hallinnolle olisi perusteltua tarjota dataa uudelleenkäytettävässä muodossa ja toimia alustana, mutta sen lisäksi aktiivisesti kannustaa yrityksiä, kansalaisia ja muita tahoja hyödyntämään dataa.&lt;/p&gt;
+&lt;p&gt;Tim O’Reillyn ajatuskulkua Suomen oloihin sovittaen puhumme hallinnosta mahdollistajana, joka on hieman enemmän kuin vain pelkkä alusta. Mahdollistajuus on aktiivista toimintaa, kun alusta antaa mielikuvan passiivisesta. Avoimen datan suhteen sanomme, että hallinnolle olisi perusteltua tarjota dataa uudelleenkäytettävässä muodossa ja toimia alustana, mutta sen lisäksi aktiivisesti kannustaa yrityksiä, kansalaisia ja muita tahoja hyödyntämään dataa.&lt;/p&gt;
 
-&lt;h4 id=&#39;141_avoin_toiminta_ja_viestint_datan_hydyntjille&#39;&gt;1.4.1 Avoin toiminta ja viestintä datan hyödyntäjille&lt;/h4&gt;
+&lt;h4 id=&quot;141_avoin_toiminta_ja_viestint_datan_hydyntjille&quot;&gt;1.4.1 Avoin toiminta ja viestintä datan hyödyntäjille&lt;/h4&gt;
 
 &lt;p&gt;Datan avaamisen projektit eivät ole irrallisia teknisiä hankkeita, vaan ne kannattaa rakentaa dataa käyttävien ja jalostavien ihmisten ja yhteisöjen ympärille osaksi avoimen datan ekosysteemiä. Aiemmin esiteltyjä käyttäjälähtöisen innovoinnin periaatteita voidaan soveltaa tiedonavaamisprosessiin ja datarajapinnan luomiseen. Datan käyttäjät ovat parhaita asiantuntijoita siinä, kuinka dataa kannattaa tarjota, jotta sitä aktiivisesti hyödynnettäisiin ja eläviä palveluita syntyisi. Dataa avaavat organisaatiot voivat esitellä rajapintoja, saada palautetta ja saada ihmiset auttamaan niiden kehityksessä.&lt;/p&gt;
 
@@ -340,7 +343,7 @@
 
 &lt;p&gt;Datan avaamista voidaan valmistella tavanomaisista suljetuista projektikäytännöistä poiketen osittain avoimesti internetissä. Luonteva tapa tavoittaa ohjelmointiyhteisöjä ja muita datan hyödyntämisestä kiinnostuneita tahoja on jalkautua sosiaalisen median palveluihin. Muun muassa Sitra on koordinoinut jo muutaman vuoden avoimessa internetissä erilaisia kansalaispaneeleja niin strategiatyössä kuin uusien strategia-aiheiden etsinnässä. Aiemmin suljetut, asiantuntijakeskeiset tapahtumat on avattu internetiin kenen tahansa kiinnostuneen ulottuville (Luoto 2010). Monet muutkin organisaatiot ovat jo löytäneet sosiaalisen median. Eri tutkimusten mukaan hallinto on ollut Suomessa jopa liike-elämää aktiivisempi internetin uusien mahdollisuuksien käyttöönotossa. Läsnäolo internetissä mahdollistaa tyystin uuden kontaktipinnan, jota ei aiemmin ole ollut. Tästä esimerkkeinä vaikkapa poliisin toiminta IRC-Galleriassa, Facebookissa sekä netari.fi nuorisotoiminta useissa eri verkkopalveluissa.&lt;/p&gt;
 
-&lt;h4 id=&#39;142_innovaatiokilpailu_kannustimena_toimintaan&#39;&gt;1.4.2 Innovaatiokilpailu kannustimena toimintaan&lt;/h4&gt;
+&lt;h4 id=&quot;142_innovaatiokilpailu_kannustimena_toimintaan&quot;&gt;1.4.2 Innovaatiokilpailu kannustimena toimintaan&lt;/h4&gt;
 
 &lt;p&gt;Teknisen mahdollisuuden lisäksi elävien palveluiden ja sovellusten syntymiseen tarvitaan myös yhteisöjä: toimijoita, ohjelmoijia, tutkijoita, yrityksiä, järjestöjä, jne, jotka tarttuvat tilaisuuteen ja käyttävät dataa luovasti raaka-aineena. Mitä kiinteämpi ja keskustelevampi datan kanssa toimivien ihmisten ja organisaatioiden ekosysteemi Suomeen kehittyy, sitä suurempi hyöty aukenevista datavarannoista saadaan Suomeen ja suomalaisille. On monia tapoja, joilla organisaatiot voivat varsin kustannustehokkaasti tukea avoimen datan hyödyntämistä ja samalla kerätä kokemusta yhteisöjen kanssa toimimisesta. Esimerkiksi oppaan kirjoittajilla oli mahdollisuus osallistua Helsingin seudun liikennelaitoksen järjestämään Reittioppaan API:n käyttäjien ja kehittäjien yhteiseen työpajaan. Tässä esitetään hieman laajemmin datan hyödyntämiseen tähtäävät innovaatiokilpailut, jotka ovat etenkin ekosysteemin muotoutumisen alkuvaiheessa toimivaksi havaittu konsepti.&lt;/p&gt;
 
@@ -350,7 +353,8 @@
 
 &lt;p&gt;Innovaatiokilpailun ideana oli antaa data kansalaisten ja yritysten käsiin ja palkita parhaiden sovellusten kehittäjiä rahallisesti ja julkisuudella. Vastaavia avoimen datan hyödyntämiseen tähtääviä innovaatiokilpailuita on järjestetty ympäri maailman ja vuonna 2009 myös Suomessa nimellä &lt;em&gt;Kansalaisosallistujan työkalut – Apps for Democracy Finland&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Kansalaisosallistujan työkalut&lt;/em&gt; -kilpailu sai jo järjestelyvaiheessa erittäin positiivisen vastaanoton. Kilpailuun tuli 23 ehdotusta, joista noin puolet oli toimivia sovelluksia ja puolet konseptitason ehdotuksia (ks. Liite 2). Muutamia kilpailuun osallistuneita ideoita on sittemmin jatkokehitetty (ainakin Veropuu, Asialista, Nomen est Omen ja Simupedia, Eduskunnan kyselyportaali) ja muutkin ehdotukset ovat herättäneet kiinnostusta. Aivan kuten Washongtonin kilpailussakin kenties pysyvin vaikutus on orastavassa suomalaisessa avoimen datan ekosysteemin syntymisessä, jonka kehittymiseen kilpailuun osallistuneet hallinnon organisaatiot ja kilpailijat ovat sittemmin vaikuttaneet. Vuonna 2010 suomalainen Apps for Democracy Finland -kilpailu järjestetään Verkkodemokratiaseuran vetämänä.&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;Kansalaisosallistujan työkalut&lt;/em&gt; -kilpailu sai jo järjestelyvaiheessa erittäin positiivisen vastaanoton. Kilpailuun tuli 23 ehdotusta, joista noin puolet oli toimivia sovelluksia ja puolet konseptitason ehdotuksia (ks. Liite 2). Muutamia kilpailuun osallistuneita ideoita on sittemmin jatkokehitetty (ainakin Veropuu, Asialista, Nomen est Omen ja Simupedia, Eduskunnan kyselyportaali) ja muutkin ehdotukset ovat herättäneet kiinnostusta. Aivan kuten Washongtonin kilpailussakin kenties pysyvin vaikutus on orastavassa suomalaisessa avoimen datan ekosysteemin syntymisessä, jonka kehittymiseen kilpailuun osallistuneet hallinnon organisaatiot ja kilpailijat ovat sittemmin vaikuttaneet. Vuonna 2010 suomalainen Apps for Democracy Finland -kilpailu järjestetään Verkkodemokratiaseuran vetämänä.&lt;/p&gt;
+</description>
     </item>
     
     
@@ -361,7 +365,8 @@
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://incorporated.sendtoinc.com/2013/10/21/00-organisaation-nakokulmia-avoimuuteen</guid>
-      <description>&lt;p&gt;Datan avaamiseen ollaan Suomessa tarttumassa nyt laajalla rintamalla. Liikenne- ja viestintäministeriön on asettanut työryhmän edistämään julkisen informaation saatavuutta - valtiovarainministeriö kaksi (LVM &amp;amp; VM 2010). Valtakunnallinenkin media on tarttunut asiaan (HS 2.7.2010). Mitä tämä tarkoittaa yksittäisen organisaation kannalta?&lt;/p&gt;
+      <description>
+&lt;p&gt;Datan avaamiseen ollaan Suomessa tarttumassa nyt laajalla rintamalla. Liikenne- ja viestintäministeriön on asettanut työryhmän edistämään julkisen informaation saatavuutta - valtiovarainministeriö kaksi (LVM &amp;amp; VM 2010). Valtakunnallinenkin media on tarttunut asiaan (HS 2.7.2010). Mitä tämä tarkoittaa yksittäisen organisaation kannalta?&lt;/p&gt;
 
 &lt;p&gt;Päätökset datavarantojen avoimesta ja maksuttomasta jakamisesta liittyvät taloudellisiin seikkoihin, vallankäyttöön, juridiikkaan ja tekniikkaan. Hyvin usein mukana on laaja toimijaverkosto, jolloin yhteisten päätösten tekeminen on aikaa vievää. Kansainvälisiä esimerkkejä - niin valtioiden, kaupunkien, kuin yksittäisten organisaatioidenkin – avoimeen dataan liittyvistä strategisista päätöksistä on runsaasti.&lt;/p&gt;
 
@@ -375,7 +380,7 @@
 
 &lt;p&gt;Tässä luvussa esiteltävät datan avoimuudet mittarit (2.2) ja viitteellinen datavarantojen inventaario- ja julkaisuprosessi (2.3) muodostavat rungon seuraaville luvuille, joissa syvennetään maksuttomuuden, laillisen ja teknisen uudelleenkäytettävyyden, sekä datan löydettävyyden teemoja. Datan avaamishankkeessa on hyvä olla mukana laaja edustus organisaation osaamista, mukana tulisi olla ainakin informaatio-, laki-, talous-, tietotekniikka-, viestintä ja hallito-osaamista sekä lisäksi päätösvaltaisia ihmisiä.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;21_datavarantoja_toimijoita_ja_rooleja&#39;&gt;2.1 Datavarantoja toimijoita ja rooleja&lt;/h2&gt;
+&lt;h2 id=&quot;21_datavarantoja_toimijoita_ja_rooleja&quot;&gt;2.1 Datavarantoja toimijoita ja rooleja&lt;/h2&gt;
 
 &lt;p&gt;Potentiaalisia toimijoita avoimen datan ekosysteemissä on niin julkishallinnon organisaatioissa, yrityksissa, järjestöissä kuin kansalaisten parissa. Julkishallinnolla on merkittävä rooli datan tuotannossa ja siksi olisi oleellista, että mahdollisimman suuri osa julkishallinnosta on mukana. Julkishallinnon datasta puhuttaessa tulee yleensä ensimmäisenä mieleen tunnetut perusrekisterit, kuten väestörekisteri, kiinteistörekisteri jne. sekä kenties tilastotiedot ja säätiedot. Myös kartta-aineistot ja paikkatieto on melko laajasti tunnettua ja jotkut muistavat mainita erilaiset liikennetiedot. Hallinnon data-aineistoja ei Suomessa ole kattavasti kartoitettu, mutta niiden määrä on eri arvioiden mukaan kuitenkin hämmästyttävän suuri.&lt;/p&gt;
 
@@ -452,7 +457,7 @@
 &lt;/table&gt;
 &lt;p&gt;Myöhemmin tässä luvussa esitettävän organisaation tietovarantojen inventaarion yhteydessä identifioidaan aineistot, joita organisaatiolla on hallussaan. Yllämainittu roolijaottelu sekä liitteen 3. julkishallinnon tietomaaston kartoitus on tarkoitettu avuksi inventaarioon.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;22_datan_avoimuuden_mittareita&#39;&gt;2.2 Datan avoimuuden mittareita&lt;/h2&gt;
+&lt;h2 id=&quot;22_datan_avoimuuden_mittareita&quot;&gt;2.2 Datan avoimuuden mittareita&lt;/h2&gt;
 
 &lt;p&gt;Keskustelunavausten, raporttien ja hankkeiden myötä avoimuudesta on nopeasti tullut keskeinen sana hallinnon sanastoon myös kun puhutaan tietojärjestelmistä ja tietovarannoista. Avoimuuskeskustelussa puhutaan samaan aikaan avoimesta lisensoinnista, teknisistä rajapinnoista, formaateista, metadatasta, tiedon harmonisoinnista, hallinnon läpinäkyvyydestä, ihmisten osallistumismahdollisuuksista, julkisuusperiaatteesta, uudelleenkäytettävyydestä ja koneluettavuudesta. Ei ole aivan poikkeuksellista, että eri osapuolet tarkoittavat eri asioita. Aiheen laajuuden ja nopean kehityksen vuoksi väärinymmärrykset ja liika yleistäminen ovat yleisiä. Mitä oikeastaan tarkoitetaan avoimella julkishallinnon datalla?&lt;/p&gt;
 
@@ -484,7 +489,7 @@
 
 &lt;p&gt;Koska täysin avoimen datan määritelmä harvoin kaikilta osin täyttyy tai on edes tarpeen täyttyä, on määritelmä purettu osiin: löydettävyys (2.2.1), kokonaisuus (2.2.2), käyttöehtojen tasa-arvoisuus (2.2.3), alkuperäisyys ja ajantasaisuus (2.2.4), laillinen ja vapaa uudelleenkäytettävyys (2.2.5), maksuttomuus (2.2.6), koneluettavuus (2.2.7), formaatin avoimuus (2.2.8) ja ymmärrettävyys (2.2.9). Tämä osiin purettu avoimen datan määritelmä toimii akselistona, jonka avulla voidaan arvioida yksittäisen julkisen datalähteen avoimuutta ja tunnistaa missä asioissa sitä kenties voitaisiin helposti lisätä.&lt;/p&gt;
 
-&lt;h3 id=&#39;221_lydettvyys&#39;&gt;2.2.1 Löydettävyys&lt;/h3&gt;
+&lt;h3 id=&quot;221_lydettvyys&quot;&gt;2.2.1 Löydettävyys&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Aineiston olemassaolo ja sijainti on yleisesti tunnettu. Aineisto ja sen uudelleenkäytön sallivat lisensointiehdot ovat helposti löydettävissä internetistä sekä ihmisille että hakuroboteille.&lt;/p&gt;
 
@@ -492,7 +497,7 @@
 
 &lt;p&gt;Google Maps -rajapinta tai Wikipedian sisältö ovat esimerkkejä aineistoista, joi- den olemassaolo ja laillinen käytettävyys on yleisesti tiedossa. Aineiston löy- dettävyyttä voidaan parantaa lisäämällä se hyvin ylläpidettyyn datakatalogiin, optimoimalla datavarantojen kuvailutiedot hakukoneita varten ja julkaisemalla data linkitetyn datan paradigman mukaisesti. Yleistä tunnettuutta voidaan vah- vistaa tiedottamalla aktiivisesti potentiaalisille uudelleenkäyttäjille datavaran- non olemassaolosta verkossa, julkaisuissa ja tapahtumien yhteydessä. (ks. luku 6: Avoimen datan infrastruktuuri)&lt;/p&gt;
 
-&lt;h3 id=&#39;222_kokonaisuus&#39;&gt;2.2.2 Kokonaisuus&lt;/h3&gt;
+&lt;h3 id=&quot;222_kokonaisuus&quot;&gt;2.2.2 Kokonaisuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Data on kokonaisuudessaan vapaasti ladattavissa internetistä. Saavutet- tavuutta ja datan käyttömahdollisuuksia ei rajoiteta epäsuorasti, tarjoamalla pääsy vain osaan tietokannasta kerrallaan.&lt;/p&gt;
 
@@ -500,7 +505,7 @@
 
 &lt;p&gt;Tyypillinen tapaus, jossa aineiston kokonaisuutta rajoitetaan tarkoituksella tai tahattomasti on sellainen, jossa aineisto tarjotaan vain kyselyrajapinnan kaut- ta, eikä aineistoa ole mahdollista ladata kokonaan. Mikäli aineisto on saatavilla kokonaisuudessaan tarkoittaa se, että kenen tahansa on teknisesti mahdollista myös ryhtyä jakamaan dataa itseään ja muita varten. Kokonaisuuden rajoitta- minen voi olla keino varmistaa aineiston loukkaamattomuus (integriteetti) ja estää rinnakkaisten kopioiden syntyminen aineistosta. Toisaalta kokonaisuuden rajoittaminen estää datan kattavaan analyysiin perustuvan käytön ja aiheuttaa kyselyrajapinnan kuormitusta, joka voitaisiin välttää tarjoamalla oma kopio. (ks. luku 5: Tekninen valmistautuminen)&lt;/p&gt;
 
-&lt;h3 id=&#39;223_kyttehtojen_tasaarvoisuus&#39;&gt;2.2.3 Käyttöehtojen tasa-arvoisuus&lt;/h3&gt;
+&lt;h3 id=&quot;223_kyttehtojen_tasaarvoisuus&quot;&gt;2.2.3 Käyttöehtojen tasa-arvoisuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Aineisto on saatavilla kaikille ja kaikkiin laillisiin käyttötarkoituksiin yhtä helposti. Datan luovutuksessa ei aseteta käyttäjiä eikä käyttötarkoituksia eriar- voiseen asemaan, vaan muut hallinnon toimijat, kansalaiset, yritykset ja myös ulkomaalaiset toimijat ovat tasa-arvoisia.&lt;/p&gt;
 
@@ -508,7 +513,7 @@
 
 &lt;p&gt;Käytännössä tasa-arvoisuus toteutuu, mikäli aineisto on saatavissa verkosta ilman rekisteröintivaatimuksia, jolloin kuka tahansa voi ottaa sen käyttöönsä standardinmukaisilla lisenssiehdoilla. Lisenssi ei estä ketään käyttämästä dataa jollakin määrätyllä käyttöalueella. Erityisesti myös kaupallinen käyttö on sal- littua, sillä kaupallisten toimijoiden toivotaan liittyvän avoimen datan ekosysteemiin. Tasa-arvoisuus tarkoittaa ennakoivasta kontrollista luopumista. Dataa saa käyttää myös taitamattomasti ja poliittisiin tarkoituksiin. (ks. luku 3: Lupa julkaista ja käyttää)&lt;/p&gt;
 
-&lt;h3 id=&#39;224_alkuperisyys_ja_ajantasaisuus&#39;&gt;2.2.4 Alkuperäisyys ja ajantasaisuus&lt;/h3&gt;
+&lt;h3 id=&quot;224_alkuperisyys_ja_ajantasaisuus&quot;&gt;2.2.4 Alkuperäisyys ja ajantasaisuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Aineisto on tarjolla alkuperäisessä muodossaan ja alkuperäisellä tark- kuusasteella silloin, kun se ei uhkaa yksilöiden tietosuojaa. Aineisto julkaistaan lähimpänä sen syntypaikkaa (alkuperäisen tuottajan toimesta) ajantasaisesti suhteutettuna aineiston sisällön muuttumisnopeuteen.&lt;/p&gt;
 
@@ -516,7 +521,7 @@
 
 &lt;p&gt;Raakadatan lisäksi myös yhdistettyjä ja jalostettuja muotoja datasta voidaan asettaa vapaasti saataville. Joissain tapauksissa yleistämällä ja laskemalla tark- kuustasoa voidaan muutoin yksityisyydensuojan kannalta arkaluontoinen ai- neisto saattaa julkiseksi. Anonymisointi ja yleistäminen täytyy tehdä kuitenkin erityisellä huolella. (ks. luku 5: Tekninen valmistautuminen)&lt;/p&gt;
 
-&lt;h3 id=&#39;225_laillinen_ja_vapaa_uudelleenkytettvyys&#39;&gt;2.2.5 Laillinen ja vapaa uudelleenkäytettävyys&lt;/h3&gt;
+&lt;h3 id=&quot;225_laillinen_ja_vapaa_uudelleenkytettvyys&quot;&gt;2.2.5 Laillinen ja vapaa uudelleenkäytettävyys&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; On olemassa standardikäyttöehdot, joiden puitteissa aineisto on vapaasti uudelleenkäytettävissä kaikille riippumatta käyttäjästä tai käyttötarkoituksesta. Mahdollisia yksityisyydensuojaan, turvallisuuteen liittyviä rajoituksia lukuunot- tamatta datan käytölle ei ole asetettu muita juridisia rajoituksia. Lisensointieh- dot on esitetty selvästi ja läpinäkyvästi siten, että ne kannustavat uudelleen- käyttöön. Aineistoon mahdollisesti kohdistuvista tekijänoikeuksista on luovuttu (Waiver of Rights) ja se kerrottu suoraan aineiston uudelleenkäyttöön kannusta- vissa käyttöehdoissa.&lt;/p&gt;
 
@@ -524,7 +529,7 @@
 
 &lt;p&gt;Salliva lisensointi voidaan toteuttaa esimerkiksi Creative Commons, Open Da- tabase -lisenssillä tai vastaavalla. Aineistoon mahdollisesti kohdistuvista teki- jänoikeuksista tulisi avoimen julkisen datan osalta luopua, esimerkiksi Creative Commons nolla -lisenssillä, jolloin vältytään epäselvyyksiltä koko jatkojalostus- ketjussa. Yleisin haastatteluissa esiin noussut toive käyttöehtoihin liittyen on halu tietää ketkä aineistoa käyttävät ja mihin. Hyvin usein ei ollut mitään varsi- naisia tarpeita rajoittaa käyttötarkoituksia, mutta ne haluttiin kuitenkin tietää oman toiminnan kehittämisen näkökulmasta. Aineistojen käytön seurantaa voi- daan tehdä myös ilman allekirjoitettavia sopimuksia ja rajoittavia käyttöehtoja, esimerkiksi verkossa tapahtuvan käyttjärekisteröinnin avulla. (ks. luku 3: Lupa julkaista ja käyttää)&lt;/p&gt;
 
-&lt;h3 id=&#39;226_maksuttomuus&#39;&gt;2.2.6 Maksuttomuus&lt;/h3&gt;
+&lt;h3 id=&quot;226_maksuttomuus&quot;&gt;2.2.6 Maksuttomuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Data on saatavissa täysin maksutta.&lt;/p&gt;
 
@@ -532,7 +537,7 @@
 
 &lt;p&gt;Enintään irtiottokustannuksilla tarjottavaa aineistoa voidaan pitää melko avoi- mena. Hyvin usein kuitenkin aineiston ylläpidon ja tuotannon kustannukset ovat moninkertaiset suhteutettuna irtiottokuluina perittäviin maksuihin. Pienikin maksu rajoittaa aineiston käyttöä merkittävästi siihen liittyvän vaivalloisuuden ja sopimusten takia. Voi olla, että suurin osa irtiottokustannuksista muodostuu itseasiassa sen laskuttamiseen liittyvästä byrokratiasta, jolloin irtiottokostan- nuksien perimistä ei voida pitää perusteltuna. Mikäli erityisestä syystä peritään maksuja, tulisi maksu olla mahdollista suorittaa internetissä ja saada aineisto käyttöön välittömästi ilman viranomaisen työtä. (ks. luku 5: Avoimen datan ta- loudesta)&lt;/p&gt;
 
-&lt;h3 id=&#39;227_koneluettavuus&#39;&gt;2.2.7 Koneluettavuus&lt;/h3&gt;
+&lt;h3 id=&quot;227_koneluettavuus&quot;&gt;2.2.7 Koneluettavuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Datavarannolla on pysyvä sijainti internetissä ja sitä pääsee lukemaan automatisoidusti ja ohjelmallisesti. Data on riittävissä määrin strukturoitu au- tomatisoidun prosessoinnin mahdollistamiseksi. Myöskin lisensointiehdot ovat koneluettavia, ne voidaan hyväksyä verkossa ja aineisto saadaan käyttöön ilman viranomaisen työtä.&lt;/p&gt;
 
@@ -540,7 +545,7 @@
 
 &lt;p&gt;Peukalosääntönä koneluettavuudelle voidaan pitää sitä, että etevä ohjelmoija ky- kenee verrattain lyhyessä ajassa tekemään ohjelman, joka automaattisesti hakee datan internetistä, lukee sen ohjelman muistiin ja tulostaa uudelleen muokattuna vaikkapa iPhonen näytölle. Mikäli aineisto ei missään vaiheessa ole koneluetta- vassa muodossa, on sen saattaminen sellaiseksi varsin työlästä. Usein kuitenkin esimerkiksi organisaation verkkosivuilla tarjotaan aineistoja ei-koneluettavasti HTML-muodossa, mutta samat aineistot ovat jossain toisessa järjestelmässä myös koneluettavassa muodossa, jolloin niiden julkaiseminen on jo paljon helpompaa. (ks. luku 5: Tekninen valmistautuminen)&lt;/p&gt;
 
-&lt;h3 id=&#39;228_formaatin_avoimuus&#39;&gt;2.2.8 Formaatin avoimuus&lt;/h3&gt;
+&lt;h3 id=&quot;228_formaatin_avoimuus&quot;&gt;2.2.8 Formaatin avoimuus&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Aineisto on saatavilla käyttökelpoisessa ja muokattavassa formaatissa, jonka määrittely ja kehitys eivät ole minkään yksittäisen yrityksen tai vastaavan hallussa.&lt;/p&gt;
 
@@ -548,7 +553,7 @@
 
 &lt;p&gt;Tämä voidaan saavuttaa tarjoamalla aineisto avoimessa formaatissa, esimerkik- si sellaisessa, jonka spesifikaatio on julkisesti ja vapaasti saatavilla ja joka ei aseta rahallisia tai muita rajoitteita formaatin käytölle. Samaa dataa kannattaa mahdollisuuksien mukaan tarjota useammissakin formaateissa. Aina avoimen formaatin käyttöön ei ole realistisia mahdollisuuksia. Esimerkiksi jotkut paik- katieto-järjestelmät käyttävät valmistajakohtaisia formaatteja, jolloin avoimiin formaatteihin voidaan siirtyä vain järjestelmäuudestuksen yhteydessä. (ks. luku 5: Tekninen valmistautuminen)&lt;/p&gt;
 
-&lt;h3 id=&#39;229_ymmrrettvyys&#39;&gt;2.2.9 Ymmärrettävyys&lt;/h3&gt;
+&lt;h3 id=&quot;229_ymmrrettvyys&quot;&gt;2.2.9 Ymmärrettävyys&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Avoin:&lt;/strong&gt; Data on kuvailtu ja dokumentoitu kattavasti ja selkeästi.&lt;/p&gt;
 
@@ -556,7 +561,7 @@
 
 &lt;p&gt;Aineiston ymmärrettävyyttä ja sitä kautta uudelleenkäytettävyyttä voidaan merkittävästi parantaa metadatan, dokumentaation, käyttöesimerkkien ja laa- tumääritelmien avulla. Hyvän dokumentaation ainoa haittapuoli on sen tekemi- sen työläys. Ohjeistaminen saattaa muodostua merkittäväksi aineistojen julkai- semisen hidasteeksi. Toisaalta dokumentaatio voi joskus olla hyvinkin kevyt ja sitä voi parantaa myöhemmin. Esimerkiksi sarkainerotellussa tiedostossa riittää, että sarakeotsikot ovat tiedostossa mukana. (ks. luku 5: Tekninen valmistautu- minen)&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&#39;23_datavarantojen_inventaario_ja_julkaisuprosessi&#39;&gt;2.3 Datavarantojen inventaario- ja julkaisuprosessi&lt;/h2&gt;
+&lt;h2 id=&quot;23_datavarantojen_inventaario_ja_julkaisuprosessi&quot;&gt;2.3 Datavarantojen inventaario- ja julkaisuprosessi&lt;/h2&gt;
 
 &lt;p&gt;Hyvin kuvailtu laadukas data luotettavasti toimivien rajapintojen kautta jaeltuna johtaa avoimen datan suurimpiin hyötyihin. Datan avaaminen vaatii kuitenkin aikaa ja resursseja, eikä kaikkea voida rakentaa kerralla valmiiksi. Datan jakamisessa kannattaa etsiä pieniä toimia, joilla datan avoimuutta voidaan merkittävästi lisätä.&lt;/p&gt;
 
@@ -658,9 +663,9 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#39;231_datasta_ilmoittaminen&#39;&gt;2.3.1 Datasta ilmoittaminen&lt;/h3&gt;
+&lt;h3 id=&quot;231_datasta_ilmoittaminen&quot;&gt;2.3.1 Datasta ilmoittaminen&lt;/h3&gt;
 
-&lt;p&gt;Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: &amp;#8220;_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_&amp;#8221;. Uudelleenkäyttäjät vastaavat: &amp;#8220;_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Organisaation edustaja kysyy datan uudelleenkäyttöyhteisöiltä: “_Kertokaa meille, mitä tietoa haluatte ja missä muodossa, niin katsomme, mitä voimme asian hyväksi tehdä_”. Uudelleenkäyttäjät vastaavat: “_Kertokaa meille, mitä dataa teillä on, niin kerromme, mitä haluamme_”.&lt;/p&gt;
 
 &lt;p&gt;Aivan ensimmäinen julkaistava data tulisi olla listaus aineistoista, joita organisaatiolla ylipäätään on olemassa, vaikka nämä aineistot eivät vielä olisi saatavilla. Tällaista organisaation nettisivuilla tai laajemmassa useiden organisaatioiden tietoja yhdistävässä datakatalogissa julkaistavaa listausta kutsutaan organisaation julkisten tietoaineistojen rekisteriksi (Information Asset Registry IAR). Listaukseen sisältyvät sekä jo avoimet datavarannot että tietolähteet, jotka eivät vielä ole avoimesti saatavilla, mutta ovat kuitenkin julkisia ja joiden avoimuutta voidaan jatkossa lisätä.&lt;/p&gt;
 
@@ -680,7 +685,7 @@
 
 &lt;p&gt;Voi olla, ettei käyttäjien huomiota aivan alussa saavuteta. Parhaimmillaan kuitenkin jo pelkän omien datavarantojen listauksen avulla voidaan käynnistää organisaation ja datan hyödyntäjien välinen dialogi ja saada palautetta siitä, mitä dataa kannattaisi julkaista mitenkin. Lopuksi palaute ja datan avaamisesta saadut kokemukset kootaan ja arvioidaan. Mikä toimi, mikä ei? Valmistaudutaan siirtymään seuraavalle iteraatiokierrokselle, jossa pilotoidaan datan julkaisemista.&lt;/p&gt;
 
-&lt;h3 id=&#39;232_pilottiaineistojen_julkaiseminen&#39;&gt;2.3.2 Pilottiaineistojen julkaiseminen&lt;/h3&gt;
+&lt;h3 id=&quot;232_pilottiaineistojen_julkaiseminen&quot;&gt;2.3.2 Pilottiaineistojen julkaiseminen&lt;/h3&gt;
 
 &lt;p&gt;Kun organisaation keskeisimmät tietovarannot on tunnistettu, on tärkeää erotella huolelllisesti julkaisemiseen kelpaavat aineistot muista. Tietokannoissa saattaa olla sekaisin julkisia ja salaisia tietoja. Esimerkiksi monet valtion työntekijöiden nimet ovat periaatteessa julkisia, mutta esimerkiksi hävittäjälentäjistä ei haluta kansallisen turvallisuuden vuoksi kertoa mitään. Nopean datan avaamisen kannalta tällaiset kokonaisuudet kannattaa lykätä myöhemmäksi. Erotellaan aineistot täysin julkisiin, epäselviin ja ei-julkisiin. Aluksi voidaan keskittyä pelkästään selvästi julkisten aineistojen avaamiseen.&lt;/p&gt;
 
@@ -694,7 +699,7 @@
 
 &lt;p&gt;Asiaa ei ole syytä mutkistaa ja datan avausta viivyttää esimerkiksi sen takia, että organisaation resurssit eivät juuri nyt riitä rajapintojen määrittelyyn tai viimeistä piirtoa myöten hienon dataportaalin rakentamiseen. Tässäkin iteratiivisuus on tärkeää ja pienin askelin päästään pidemmälle. On parempi laittaa aineisto saataville ensin kevyesti, mutta kuitenkin kokonaisuutena ja rakenteellisessa muodossa, ja vasta sitten alkaa miettiä mahdollisia rajapintoja. Pinnan kiillotus ja käyttöliittymät ovat tärkeysjärjestyksessä viimeisimpiä.&lt;/p&gt;
 
-&lt;h3 id=&#39;233_dokumentointi_ja_kytttilanteet&#39;&gt;2.3.3 Dokumentointi ja käyttötilanteet&lt;/h3&gt;
+&lt;h3 id=&quot;233_dokumentointi_ja_kytttilanteet&quot;&gt;2.3.3 Dokumentointi ja käyttötilanteet&lt;/h3&gt;
 
 &lt;p&gt;Viitteellisen datan avaamisprossessin mukaan on tehty jo kaksi täyttä kierrosta. Ensimmäisen tuloksena julkaistiin lista kaikista organisaation hallussa olevista julkisista aineistoista. Toisen tuloksena julkaistiin ensimmäiset helposti avattavat aineistot. Samalla organisaation omien tietoresurssien tuntemus on vahvistunut ja datan käyttäjäyhteisöihin on syntynyt ensimmäiset kontaktit. Tämän seuraavan dokumentointi ja käyttötilanteet-kierroksen aikana tehdään kattavampi datavarantojen inventaario, julkaistaan uusia aineistoja ja parannetaan niiden julkista dokumentaatiota.&lt;/p&gt;
 
@@ -704,7 +709,7 @@
 
 &lt;p&gt;Tämän iteraatiokierroksen julkaisuvaiheessa voidaan kehittää jo aiemmin julkaistujen aineistojen jakelua esimerkiksi toteuttamalla avoin rajapinta (ks. luku 5.5). Aineistojen sisällön ja käyttöoikeuksien kuvailu ja tekninen dokumentaatio ovat myös tärkeitä kehityskohteita.&lt;/p&gt;
 
-&lt;h3 id=&#39;234_tietoarkkitehtuurin_kehittminen_ja_sanastoty&#39;&gt;2.3.4 Tietoarkkitehtuurin kehittäminen ja sanastotyö&lt;/h3&gt;
+&lt;h3 id=&quot;234_tietoarkkitehtuurin_kehittminen_ja_sanastoty&quot;&gt;2.3.4 Tietoarkkitehtuurin kehittäminen ja sanastotyö&lt;/h3&gt;
 
 &lt;p&gt;Pienestä datavarantojen listauksesta liikkeelle lähtenyt prosessi voi ajan myötä kulminoitua tietoarkkitehtuurin kehittämiseen, järjestelmien suunnitteluun ja organisaatiorajat ylittävään tietovarantojen yhtenäistämiseen. Olennaista on, että matkan varrella avattujen datavarantojen hyödyntämisestä saattaa jo olla kertynyt kokemuksia.&lt;/p&gt;
 
@@ -718,7 +723,8 @@
 
 &lt;p&gt;Aineistojen kuvaamisella ja menetelmien määrittelyllä pyritään ratkomaan ja ennaltaehkäisemään yhteensopivuusongelmia ja luomaan kattava näkemys aineistoihin yli organisaatiorajojen. Organisaatioiden sisällä ja myös organisaatioiden välillä pyritään pikkuhiljaa yhdenmukaistamaan tietoarkkitehtuuria ja löytämään yhteisiä tapoja kuvata tietoa.&lt;/p&gt;
 
-&lt;p&gt;Tietoarkkitehtuurin laatiminen edellyttää eri osapuolten organisoitua yhteistoimintaa, aikaa ja runsasta työtä. Mitä laajempi näkemys pyritään saavuttamaan, sitä työläämpää se on. Esimerkki tällaisesta tietoarkkitehtuurihankkeesta on hiljattain valmistunut kaksivuotinen KuntaGML-hanke, jonka tavoitteena oli ottaa kunnissa käyttöön standardimuotoiset rajapinnat paikkatiedolle, kuten kaavoituksen pohjatiedoille. Hyvä arkkitehtuuri palkitsee työläydestään huolimatta järjestelmien yksinkertaisempana ylläpitona, säästyneenä työnä, tietovarantojen laadun paranemisena ja ennen kaikkea mahdollistaa tietojen laajemman uudelleenkäytön.&lt;/p&gt;</description>
+&lt;p&gt;Tietoarkkitehtuurin laatiminen edellyttää eri osapuolten organisoitua yhteistoimintaa, aikaa ja runsasta työtä. Mitä laajempi näkemys pyritään saavuttamaan, sitä työläämpää se on. Esimerkki tällaisesta tietoarkkitehtuurihankkeesta on hiljattain valmistunut kaksivuotinen KuntaGML-hanke, jonka tavoitteena oli ottaa kunnissa käyttöön standardimuotoiset rajapinnat paikkatiedolle, kuten kaavoituksen pohjatiedoille. Hyvä arkkitehtuuri palkitsee työläydestään huolimatta järjestelmien yksinkertaisempana ylläpitona, säästyneenä työnä, tietovarantojen laadun paranemisena ja ennen kaikkea mahdollistaa tietojen laajemman uudelleenkäytön.&lt;/p&gt;
+</description>
     </item>
     
     
