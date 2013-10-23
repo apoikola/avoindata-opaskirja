@@ -13,29 +13,7 @@ ulottuville.</p>
 
 <h2>Sisällysluettelo</h2>
 
-{% for post in paginator.posts %}
-  {% unless post.draft %}
-        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
-        <div>
-            {% if post.chapter %}
-                <h4><a href="{{ post.url }}" rel="prefetch">Luku {{ post.chapter }}: {{ post.title }}</a></h4>
-            {% else %}
-                <h4><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h4>
-            {% endif %}
-            <!--<p>{{ post.excerpt }}</p>-->
-        </div>
+  {% for page in site.pages%}
+    <a href="{{ page.url }}">{{ page.title }}</a></br>
+  {% endfor %}
 
-    {% endunless %}
-    {% endfor %}
-    <section>
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/">‹ Newer</a>
-        {% else %}
-        <a href="/page{{ paginator.previous_page }}">‹ Newer</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}">Older ›</a>
-      {% endif %}
-    </section>
